@@ -1,0 +1,35 @@
+[
+  {
+    "name": "ractool-server",
+    "stars": 2,
+    "url": "https://github.com/ZizouHuweidi/ractool-server",
+    "description": "The server for the club management app of Rotary club",
+    "languages": [
+      "TypeScript",
+      "Prisma"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "ractool-admin",
+    "stars": 2,
+    "url": "https://github.com/AshrafZohdi/ractool_admin",
+    "description": "The admin dashboard for the club management app of Rotary club",
+    "languages": [
+      "TypeScript",
+      "React",
+      "CSS"
+    ],
+    "role": "contributor"
+  },
+  {
+    "name": "dhakir-api",
+    "stars": 0,
+    "url": "https://github.com/ZizouHuweidi/dhakir-api",
+    "description": "A REST API for Adhkar",
+    "languages": [
+      "Go"
+    ],
+    "role": "author"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "logo": "go",
+    "text": "Go"
+  },
+  {
+    "logo": "postgres",
+    "text": "Postgres"
+  },
+  {
+    "logo": "typescript",
+    "text": "TypeScript"
+  },
+  {
+    "logo": "express",
+    "text": "Express"
+  },
+  {
+    "logo": "java",
+    "text": "Java"
+  },
+  {
+    "logo": "springboot",
+    "text": "Springboot"
+  },
+  {
+    "logo": "astro",
+    "text": "Astro"
+  },
+  {
+    "logo": "solid",
+    "text": "Solid"
+  },
+  {
+    "logo": "react",
+    "text": "React"
+  },
+  {
+    "logo": "next",
+    "text": "Next"
+  },
+  {
+    "logo": "tailwind",
+    "text": "Tailwind"
+  },
+  {
+    "logo": "docker",
+    "text": "Docker"
+  },
+  {
+    "logo": "redis",
+    "text": "Redis"
+  },
+  {
+    "logo": "bash",
+    "text": "Bash"
+  }
+]
