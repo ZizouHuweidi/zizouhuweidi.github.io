@@ -16,14 +16,6 @@
     "text": "Express"
   },
   {
-    "logo": "java",
-    "text": "Java"
-  },
-  {
-    "logo": "springboot",
-    "text": "Springboot"
-  },
-  {
     "logo": "astro",
     "text": "Astro"
   },
@@ -46,13 +38,5 @@
   {
     "logo": "docker",
     "text": "Docker"
-  },
-  {
-    "logo": "redis",
-    "text": "Redis"
-  },
-  {
-    "logo": "bash",
-    "text": "Bash"
   }
 ]
