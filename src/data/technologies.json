@@ -16,20 +16,20 @@
     "text": "Express"
   },
   {
-    "logo": "astro",
-    "text": "Astro"
-  },
-  {
-    "logo": "solid",
-    "text": "Solid"
-  },
-  {
     "logo": "react",
     "text": "React"
   },
   {
     "logo": "next",
     "text": "Next"
+  },
+  {
+    "logo": "astro",
+    "text": "Astro"
+  },
+  {
+    "logo": "solid",
+    "text": "Solid"
   },
   {
     "logo": "tailwind",
