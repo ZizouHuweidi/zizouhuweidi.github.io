@@ -1,9 +1,6 @@
 ---
 import AppLayout from "@layouts/AppLayout.astro";
 import Header from "@components/Header.astro";
-import openSourceContributions from "@data/contributions.json";
-import ProjectCard from "@components/ProjectCard.astro";
-
 import technologies from "@data/technologies.json";
 import Skill from "@components/Skill.astro";
 ---
@@ -11,9 +8,8 @@ import Skill from "@components/Skill.astro";
 <AppLayout title="About">
   <Header title="El Zubeir Huweidi" />
   <p class="max-w-prose mb-10 font-normal text-zinc-400 leading-relaxed">
-    Welcome to my personal website. I am an open source enthusiast and Software
-    Engineering student at Medtech University. Interested in Backend
-    development, fullstack and DevOps
+    Welcome to my personal website. I am a Software Engineering student and open
+    source enthusiast.
   </p>
 
   <section class="mt-10 sm:mt-14" aria-labelledby="section-title">
@@ -24,7 +20,7 @@ import Skill from "@components/Skill.astro";
       Education
     </h2>
     <p class="max-w-prose mb-8 font-normal text-zinc-400 leading-relaxed">
-      Medtech University
+      Medtech University (2019-2024)
     </p>
   </section>
 
@@ -35,9 +31,12 @@ import Skill from "@components/Skill.astro";
     >
       Experience
     </h2>
-    <p class="max-w-prose mb-8 font-normal text-zinc-400 leading-relaxed">
-      3 month internship at UniQ Soft Technology (Java Springboot)
-    </p>
+    <ul class="max-w-prose mb-8 font-normal text-zinc-400 leading-relaxed">
+      <li class="">
+        3 month internship at UniQ Soft Technology (Java Springboot)
+      </li>
+      <li>Making a club management app for Rotary Club (Express, React)</li>
+    </ul>
   </section>
 
   <section class="mt-10 sm:mt-14" aria-labelledby="section-title">
@@ -48,10 +47,9 @@ import Skill from "@components/Skill.astro";
       Interests
     </h2>
     <p class="max-w-prose mb-8 font-normal text-zinc-400 leading-relaxed">
-      Interested in every step of putting together an app, espescially
-      constructing the architecture of it and backend development. A big Linux
-      and open source nerd. I love the unique and tailored system experience one
-      can achieve through it
+      I love the whole process and evolution of building applications and tools,
+      in particular those that are of use to me and others. Also a big Linux and
+      open source nerd.
     </p>
   </section>
 

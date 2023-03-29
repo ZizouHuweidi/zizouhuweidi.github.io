@@ -4,8 +4,8 @@
     "text": "Go"
   },
   {
-    "logo": "graphql",
-    "text": "GraphQl"
+    "logo": "typescript",
+    "text": "TypeScript"
   },
   {
     "logo": "postgres",
@@ -16,20 +16,12 @@
     "text": "Redis"
   },
   {
-    "logo": "typescript",
-    "text": "TypeScript"
+    "logo": "graphql",
+    "text": "GraphQl"
   },
   {
-    "logo": "express",
-    "text": "Express"
-  },
-  {
-    "logo": "java",
-    "text": "Java"
-  },
-  {
-    "logo": "springboot",
-    "text": "Springboot"
+    "logo": "docker",
+    "text": "Docker"
   },
   {
     "logo": "react",
@@ -44,15 +36,7 @@
     "text": "Astro"
   },
   {
-    "logo": "solid",
-    "text": "Solid"
-  },
-  {
     "logo": "tailwind",
     "text": "Tailwind"
-  },
-  {
-    "logo": "docker",
-    "text": "Docker"
   }
 ]
