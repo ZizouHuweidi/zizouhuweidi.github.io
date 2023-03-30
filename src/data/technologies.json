@@ -4,32 +4,28 @@
     "text": "Go"
   },
   {
+    "logo": "graphql",
+    "text": "GraphQl"
+  },
+  {
     "logo": "typescript",
     "text": "TypeScript"
+  },
+  {
+    "logo": "express",
+    "text": "Express"
   },
   {
     "logo": "postgres",
     "text": "Postgres"
   },
   {
-    "logo": "redis",
-    "text": "Redis"
-  },
-  {
-    "logo": "graphql",
-    "text": "GraphQl"
-  },
-  {
     "logo": "docker",
     "text": "Docker"
   },
   {
-    "logo": "react",
-    "text": "React"
-  },
-  {
-    "logo": "next",
-    "text": "Next"
+    "logo": "vue",
+    "text": "Vue"
   },
   {
     "logo": "astro",
@@ -38,5 +34,9 @@
   {
     "logo": "tailwind",
     "text": "Tailwind"
+  },
+  {
+    "logo": "redis",
+    "text": "Redis"
   }
 ]
