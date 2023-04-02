@@ -4,8 +4,8 @@
     "text": "Go"
   },
   {
-    "logo": "graphql",
-    "text": "GraphQl"
+    "logo": "docker",
+    "text": "Docker"
   },
   {
     "logo": "typescript",
@@ -20,12 +20,16 @@
     "text": "Postgres"
   },
   {
-    "logo": "docker",
-    "text": "Docker"
+    "logo": "redis",
+    "text": "Redis"
   },
   {
     "logo": "vue",
     "text": "Vue"
+  },
+  {
+    "logo": "nuxt",
+    "text": "Nuxt"
   },
   {
     "logo": "astro",
@@ -34,9 +38,5 @@
   {
     "logo": "tailwind",
     "text": "Tailwind"
-  },
-  {
-    "logo": "redis",
-    "text": "Redis"
   }
 ]
