@@ -24,12 +24,12 @@
     "text": "Redis"
   },
   {
-    "logo": "vue",
-    "text": "Vue"
+    "logo": "react",
+    "text": "React"
   },
   {
-    "logo": "nuxt",
-    "text": "Nuxt"
+    "logo": "next",
+    "text": "Next"
   },
   {
     "logo": "astro",
