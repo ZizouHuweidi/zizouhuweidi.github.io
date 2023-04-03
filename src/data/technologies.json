@@ -4,16 +4,16 @@
     "text": "Go"
   },
   {
-    "logo": "docker",
-    "text": "Docker"
-  },
-  {
     "logo": "typescript",
     "text": "TypeScript"
   },
   {
-    "logo": "express",
-    "text": "Express"
+    "logo": "graphql",
+    "text": "GraphQl"
+  },
+  {
+    "logo": "docker",
+    "text": "Docker"
   },
   {
     "logo": "postgres",
