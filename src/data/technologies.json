@@ -8,6 +8,14 @@
     "text": "TypeScript"
   },
   {
+    "logo": "java",
+    "text": "Java"
+  },
+  {
+    "logo": "springboot",
+    "text": "Springboot"
+  },
+  {
     "logo": "graphql",
     "text": "GraphQl"
   },
