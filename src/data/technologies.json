@@ -16,20 +16,12 @@
     "text": "Springboot"
   },
   {
-    "logo": "graphql",
-    "text": "GraphQl"
-  },
-  {
-    "logo": "docker",
-    "text": "Docker"
-  },
-  {
     "logo": "postgres",
     "text": "Postgres"
   },
   {
-    "logo": "redis",
-    "text": "Redis"
+    "logo": "docker",
+    "text": "Docker"
   },
   {
     "logo": "react",
