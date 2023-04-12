@@ -12,20 +12,12 @@
     "text": "Postgres"
   },
   {
-    "logo": "redis",
-    "text": "Redis"
-  },
-  {
-    "logo": "rust",
-    "text": "Rust"
-  },
-  {
     "logo": "docker",
     "text": "Docker"
   },
   {
-    "logo": "graphql",
-    "text": "GraphQl"
+    "logo": "rust",
+    "text": "Rust"
   },
   {
     "logo": "react",
