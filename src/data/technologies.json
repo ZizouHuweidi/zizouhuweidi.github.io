@@ -4,16 +4,8 @@
     "text": "Go"
   },
   {
-    "logo": "typescript",
-    "text": "TypeScript"
-  },
-  {
     "logo": "java",
     "text": "Java"
-  },
-  {
-    "logo": "springboot",
-    "text": "Spring Boot"
   },
   {
     "logo": "postgres",
@@ -24,12 +16,12 @@
     "text": "Docker"
   },
   {
-    "logo": "react",
-    "text": "React"
+    "logo": "typescript",
+    "text": "TypeScript"
   },
   {
-    "logo": "next",
-    "text": "Next"
+    "logo": "react",
+    "text": "React"
   },
   {
     "logo": "astro",
