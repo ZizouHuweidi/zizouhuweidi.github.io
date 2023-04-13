@@ -8,6 +8,14 @@
     "text": "TypeScript"
   },
   {
+    "logo": "java",
+    "text": "Java"
+  },
+  {
+    "logo": "springboot",
+    "text": "Spring Boot"
+  },
+  {
     "logo": "postgres",
     "text": "Postgres"
   },
@@ -16,12 +24,12 @@
     "text": "Docker"
   },
   {
-    "logo": "rust",
-    "text": "Rust"
-  },
-  {
     "logo": "react",
     "text": "React"
+  },
+  {
+    "logo": "next",
+    "text": "Next"
   },
   {
     "logo": "astro",
