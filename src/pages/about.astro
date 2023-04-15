@@ -1,54 +1,42 @@
 ---
-import AppLayout from "@layouts/AppLayout.astro";
-import Header from "@components/Header.astro";
+import PageLayout from "@/layouts/Base";
 
-import technologies from "@data/technologies.json";
-import Skill from "@components/Skill.astro";
+import technologies from "@/data/technologies.json";
+import Skill from "@/components/Skill";
+
+const meta = {
+	title: "About",
+	description: "about me",
+};
 ---
 
-<AppLayout title="About">
-  <Header title="About" />
+<PageLayout meta={meta}>
+	<section aria-labelledby="section-title">
+		<h2 class="mb-4 text-2xl font-bold tracking-tight text-zinc-300" id="section-title">
+			Background
+		</h2>
+		<p class="mb-8 max-w-prose font-normal leading-relaxed text-zinc-400">x, y z</p>
+	</section>
 
-  <section class="mt-10 sm:mt-14" aria-labelledby="section-title">
-    <h2
-      class="text-zinc-300 mb-4 text-2xl font-bold tracking-tight"
-      id="section-title"
-    >
-      Background
-    </h2>
-    <p class="max-w-prose mb-8 font-normal text-zinc-400 leading-relaxed">
-      x, y z
-    </p>
-  </section>
+	<section class="mt-10 sm:mt-14" aria-labelledby="section-title">
+		<h2 class="mb-4 text-2xl font-bold tracking-tight text-zinc-300" id="section-title">
+			Interests
+		</h2>
+		<p class="mb-8 max-w-prose font-normal leading-relaxed text-zinc-400">
+			I love the whole process and evolution of building applications and tools, in particular those
+			that are of use to me and others. Also a big Linux and open source nerd. Football (AC Milan)
+			and UFC fan.
+		</p>
+	</section>
 
-  <section class="mt-10 sm:mt-14" aria-labelledby="section-title">
-    <h2
-      class="text-zinc-300 mb-4 text-2xl font-bold tracking-tight"
-      id="section-title"
-    >
-      Interests
-    </h2>
-    <p class="max-w-prose mb-8 font-normal text-zinc-400 leading-relaxed">
-      I love the whole process and evolution of building applications and tools,
-      in particular those that are of use to me and others. Also a big Linux and
-      open source nerd. Football (AC Milan) and UFC fan.
-    </p>
-  </section>
-
-  <section class="mt-10 sm:mt-14" aria-labelledby="section-title">
-    <h2
-      class="text-zinc-300 mb-4 text-2xl font-bold tracking-tight"
-      id="section-title"
-    >
-      Tech
-    </h2>
-    <p class="max-w-prose mb-8 font-normal text-zinc-400 leading-relaxed">
-      I love exploring a wide variety of languages, tools, libraries and
-      frameworks. Here are some technologies that I am learning to use or
-      learning for fun (Rust and Ocaml)
-    </p>
-    <ul class="grid grid-cols-1 gap-4 sm:grid-cols-2">
-      {technologies.map((tech) => <Skill logo={tech.logo} text={tech.text} />)}
-    </ul>
-  </section>
-</AppLayout>
+	<section class="mt-10 sm:mt-14" aria-labelledby="section-title">
+		<h2 class="mb-4 text-2xl font-bold tracking-tight text-zinc-300" id="section-title">Tech</h2>
+		<p class="mb-8 max-w-prose font-normal leading-relaxed text-zinc-400">
+			I love exploring a wide variety of languages, tools, libraries and frameworks. Here are some
+			technologies that I am learning to use or learning for fun (Rust and Ocaml)
+		</p>
+		<ul class="grid grid-cols-1 gap-4 sm:grid-cols-2">
+			{technologies.map((tech) => <Skill logo={tech.logo} text={tech.text} />)}
+		</ul>
+	</section>
+</PageLayout>

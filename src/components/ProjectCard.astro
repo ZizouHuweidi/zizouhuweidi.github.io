@@ -1,55 +1,49 @@
 ---
-import Badge from "@components/Badge.astro";
+import Badge from "./Badge.astro";
 import { Icon } from "astro-icon";
 
 interface Props {
-  name: string;
-  role: "author" | "contributor" | "maintainer" | string;
-  url: string;
-  description?: string;
-  stars: number;
-  languages: string[];
+	name: string;
+	role: "author" | "contributor" | "maintainer" | string;
+	url: string;
+	description?: string;
+	stars: number;
+	languages: string[];
 }
 
 const colors = {
-  maintainer: "gradient-pink",
-  author: "gradient-indigo",
-  contributor: "green",
+	maintainer: "gradient-pink",
+	author: "gradient-indigo",
+	contributor: "green",
 };
 
 const { name, role, url, description, stars, languages } = Astro.props;
 ---
 
-<li
-  class="bg-zinc-800 text-zinc-400 gap-1 p-6 border border-zinc-700/60 rounded-lg flex flex-col"
->
-  <div class="flex justify-between">
-    <div class="flex flex-col sm:flex-row sm:items-baseline gap-2">
-      <h3 class="text-lg font-medium text-white">{name}</h3>
-      <Badge text={role} color={colors[role]} />
-    </div>
-    <a
-      href={url}
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label={`Open ${name} repository in a new tab`}
-    >
-      <Icon
-        name="github"
-        class="w-6 fill-current hover:text-zinc-300 hover:scale-110 transition-all"
-      />
-    </a>
-  </div>
-  <div class="flex gap-2">
-    <Icon name="star" class="w-5" />
-    <span>{stars}</span>
-  </div>
-  {description && <p class="leading-relaxed">{description}</p>}
-  <ul class="flex flex-wrap gap-2 mt-2">
-    {
-      languages.map((item) => (
-        <li class="bg-zinc-700 rounded-md px-2 py-1 text-sm">{item}</li>
-      ))
-    }
-  </ul>
+<li class="flex flex-col gap-1 rounded-lg border border-zinc-700/60 bg-zinc-800 p-6 text-zinc-400">
+	<div class="flex justify-between">
+		<div class="flex flex-col gap-2 sm:flex-row sm:items-baseline">
+			<h3 class="text-lg font-medium text-white">{name}</h3>
+			<Badge text={role} color={colors[role]} />
+		</div>
+		<a
+			href={url}
+			target="_blank"
+			rel="noopener noreferrer"
+			aria-label={`Open ${name} repository in a new tab`}
+		>
+			<Icon
+				name="github"
+				class="w-6 fill-current transition-all hover:scale-110 hover:text-zinc-300"
+			/>
+		</a>
+	</div>
+	<div class="flex gap-2">
+		<Icon name="star" class="w-5" />
+		<span>{stars}</span>
+	</div>
+	{description && <p class="leading-relaxed">{description}</p>}
+	<ul class="mt-2 flex flex-wrap gap-2">
+		{languages.map((item) => <li class="rounded-md bg-zinc-700 px-2 py-1 text-sm">{item}</li>)}
+	</ul>
 </li>
