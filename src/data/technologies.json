@@ -4,12 +4,28 @@
     "text": "Go"
   },
   {
+    "logo": "grpc",
+    "text": "gRPC"
+  },
+  {
     "logo": "java",
     "text": "Java"
   },
   {
+    "logo": "springboot",
+    "text": "Spring Boot"
+  },
+  {
     "logo": "postgres",
     "text": "Postgres"
+  },
+  {
+    "logo": "redis",
+    "text": "Redis"
+  },
+  {
+    "logo": "rabbitmq",
+    "text": "RabbitMQ"
   },
   {
     "logo": "docker",
@@ -20,8 +36,16 @@
     "text": "TypeScript"
   },
   {
+    "logo": "graphql",
+    "text": "GraphQl"
+  },
+  {
     "logo": "react",
     "text": "React"
+  },
+  {
+    "logo": "next",
+    "text": "Next"
   },
   {
     "logo": "astro",
@@ -30,5 +54,13 @@
   {
     "logo": "tailwind",
     "text": "Tailwind"
+  },
+  {
+    "logo": "rust",
+    "text": "Rust"
+  },
+  {
+    "logo": "ocaml",
+    "text": "OCaml"
   }
 ]
