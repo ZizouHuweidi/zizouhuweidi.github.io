@@ -1,19 +1,19 @@
 [
   {
-    "logo": "go",
-    "text": "Go"
-  },
-  {
-    "logo": "grpc",
-    "text": "gRPC"
-  },
-  {
     "logo": "java",
     "text": "Java"
   },
   {
     "logo": "springboot",
     "text": "Spring Boot"
+  },
+  {
+    "logo": "go",
+    "text": "Go"
+  },
+  {
+    "logo": "grpc",
+    "text": "gRPC"
   },
   {
     "logo": "postgres",
@@ -44,23 +44,7 @@
     "text": "React"
   },
   {
-    "logo": "next",
-    "text": "Next"
-  },
-  {
     "logo": "astro",
     "text": "Astro"
-  },
-  {
-    "logo": "tailwind",
-    "text": "Tailwind"
-  },
-  {
-    "logo": "rust",
-    "text": "Rust"
-  },
-  {
-    "logo": "ocaml",
-    "text": "OCaml"
   }
 ]
