@@ -1,19 +1,19 @@
 [
   {
-    "logo": "java",
-    "text": "Java"
-  },
-  {
-    "logo": "springboot",
-    "text": "Spring Boot"
-  },
-  {
     "logo": "go",
     "text": "Go"
   },
   {
     "logo": "grpc",
     "text": "gRPC"
+  },
+  {
+    "logo": "java",
+    "text": "Java"
+  },
+  {
+    "logo": "springboot",
+    "text": "Spring Boot"
   },
   {
     "logo": "postgres",
@@ -44,7 +44,7 @@
     "text": "React"
   },
   {
-    "logo": "astro",
-    "text": "Astro"
+    "logo": "rust",
+    "text": "Rust"
   }
 ]
