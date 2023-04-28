@@ -8,12 +8,12 @@
     "text": "gRPC"
   },
   {
-    "logo": "java",
-    "text": "Java"
+    "logo": "typescript",
+    "text": "TypeScript"
   },
   {
-    "logo": "springboot",
-    "text": "Spring Boot"
+    "logo": "graphql",
+    "text": "GraphQl"
   },
   {
     "logo": "postgres",
@@ -32,19 +32,11 @@
     "text": "Docker"
   },
   {
-    "logo": "typescript",
-    "text": "TypeScript"
-  },
-  {
-    "logo": "graphql",
-    "text": "GraphQl"
-  },
-  {
     "logo": "react",
     "text": "React"
   },
   {
-    "logo": "rust",
-    "text": "Rust"
+    "logo": "astro",
+    "text": "Astro"
   }
 ]
