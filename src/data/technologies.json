@@ -8,6 +8,14 @@
     "text": "TypeScript"
   },
   {
+    "logo": "java",
+    "text": "Java"
+  },
+  {
+    "logo": "springboot",
+    "text": "Spring Boot"
+  },
+  {
     "logo": "postgres",
     "text": "Postgres"
   },
