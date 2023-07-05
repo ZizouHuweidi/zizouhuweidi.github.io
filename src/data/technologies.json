@@ -16,12 +16,12 @@
     "text": "Redis"
   },
   {
-    "logo": "svelte",
-    "text": "Svelte"
-  },
-  {
     "logo": "react",
     "text": "React"
+  },
+  {
+    "logo": "svelte",
+    "text": "Svelte"
   },
   {
     "logo": "docker",
