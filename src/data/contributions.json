@@ -1,7 +1,70 @@
 [
   {
+    "name": "bayt-alhikmah",
+    "stars": 0,
+    "url": "https://github.com/ZizouHuweidi/bayt-alhikmah",
+    "description": "The frotnend for the mission-ama app",
+    "languages": [
+      "Go"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "bayt-alhikmah-frontend",
+    "stars": 0,
+    "url": "https://github.com/ZizouHuweidi/bayt-alhikmah-frontend",
+    "description": "The frotnend for the mission-ama app",
+    "languages": [
+      "React",
+      "TypeScript"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "mission-ama-frontend",
+    "stars": 0,
+    "url": "https://github.com/ZizouHuweidi/mission-ama-frontend",
+    "description": "The frotnend for the mission-ama app",
+    "languages": [
+      "React",
+      "TypeScript"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "mission-ama",
+    "stars": 0,
+    "url": "https://github.com/ZizouHuweidi/mission-ama",
+    "description": "The backend for the mission-ama app",
+    "languages": [
+      "TypeScript",
+      "Prisma"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "go-piler",
+    "stars": 0,
+    "url": "https://github.com/ZizouHuweidi/go-terpreter",
+    "description": "compiler for The Monkey programming language",
+    "languages": [
+      "Go"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "go-terpreter",
+    "stars": 0,
+    "url": "https://github.com/ZizouHuweidi/go-terpreter",
+    "description": "interpreter for The Monkey programming language",
+    "languages": [
+      "Go"
+    ],
+    "role": "author"
+  },
+  {
     "name": "ractool-server",
-    "stars": 2,
+    "stars": 1,
     "url": "https://github.com/ZizouHuweidi/ractool-server",
     "description": "The server for the club management app of Rotary club",
     "languages": [
@@ -11,24 +74,24 @@
     "role": "author"
   },
   {
-    "name": "ractool-admin",
-    "stars": 2,
-    "url": "https://github.com/AshrafZohdi/ractool_admin",
-    "description": "The admin dashboard for the club management app of Rotary club",
+    "name": "zizouhuweidi.github.io",
+    "stars": 1,
+    "url": "https://github.com/ZizouHuweidi/zizouhuweidi.github.io",
+    "description": "Personal website",
     "languages": [
-      "TypeScript",
-      "React",
-      "CSS"
+      "Astro",
+      "TypeScript"
     ],
-    "role": "contributor"
+    "role": "author"
   },
   {
-    "name": "dhakir-api",
-    "stars": 0,
-    "url": "https://github.com/ZizouHuweidi/dhakir-api",
-    "description": "A REST API for Adhkar",
+    "name": "dotfiles",
+    "stars": 1,
+    "url": "https://github.com/ZizouHuweidi/dotfiles",
+    "description": "Personal dotfiles",
     "languages": [
-      "Go"
+      "Shell",
+      "Python"
     ],
     "role": "author"
   }
