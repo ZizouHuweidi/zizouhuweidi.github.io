@@ -9,7 +9,7 @@
     "check": "astro check",
     "build": "astro build",
     "preview": "astro preview",
-    "format": "prettier -w --plugin-search-dir=. --cache .",
+    "format": "prettier -w --plugin-search-dir=. --cache ."
   },
   "devDependencies": {
     "@astrojs/image": "0.15.1",
@@ -49,6 +49,6 @@
     "astro-icon": "^0.8.0",
     "satori": "0.4.1",
     "satori-html": "^0.3.2",
-    "sharp": "^0.31.3",
+    "sharp": "^0.31.3"
   }
 }
