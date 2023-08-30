@@ -8,6 +8,14 @@
     "text": "Node.js"
   },
   {
+    "logo": "python",
+    "text": "Python"
+  },
+  {
+    "logo": "java",
+    "text": "Java"
+  },
+  {
     "logo": "postgres",
     "text": "Postgres"
   },
