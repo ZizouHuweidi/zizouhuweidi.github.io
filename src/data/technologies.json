@@ -1,42 +1,34 @@
 [
-  {
-    "logo": "go",
-    "text": "Go"
-  },
-  {
-    "logo": "nodejs",
-    "text": "Node.js"
-  },
-  {
-    "logo": "python",
-    "text": "Python"
-  },
-  {
-    "logo": "java",
-    "text": "Java"
-  },
-  {
-    "logo": "postgres",
-    "text": "Postgres"
-  },
-  {
-    "logo": "redis",
-    "text": "Redis"
-  },
-  {
-    "logo": "react",
-    "text": "React"
-  },
-  {
-    "logo": "astro",
-    "text": "Astro"
-  },
-  {
-    "logo": "docker",
-    "text": "Docker"
-  },
-  {
-    "logo": "tailwind",
-    "text": "Tailwind"
-  }
+	{
+		"logo": "go",
+		"text": "Go"
+	},
+	{
+		"logo": "nodejs",
+		"text": "Node.js"
+	},
+	{
+		"logo": "python",
+		"text": "Python"
+	},
+	{
+		"logo": "docker",
+		"text": "Docker"
+	},
+	{
+		"logo": "postgres",
+		"text": "Postgres"
+	},
+	{
+		"logo": "redis",
+		"text": "Redis"
+	},
+	{
+		"logo": "react",
+		"text": "React"
+	},
+	{
+		"logo": "astro",
+		"text": "Astro"
+	}
 ]

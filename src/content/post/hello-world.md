@@ -2,7 +2,7 @@
 title: Hello World
 description: Hello world examples in the languages that I use, familiar with and that I am curious about.
 publishDate: "13 March 2023"
-tags: [Go, Typescript, Python, Java, Rust, C++, Coding]
+tags: [Go, Typescript, Python, Java, Kotlin, Rust, C++, Coding]
 ---
 
 # Go
@@ -35,17 +35,9 @@ print("Hello, world!")
 public class Main {
 
   public static void main(String[] args) {
-  	System.out.println("Hello, world!"); 
+  	System.out.println("Hello, world!");
   }
-  
-}
-```
 
-# Rust
-
-```rs
-fn main() {
-	println!("Hello, world!");
 }
 ```
 
@@ -57,5 +49,21 @@ fn main() {
 int main() {
     std::cout << "Hello, world!";
     return 0;
+}
+```
+
+# Rust
+
+```rs
+fn main() {
+	println!("Hello, world!");
+}
+```
+
+# Kotlin
+
+```kotlin
+fun main() {
+    println("Hello, World!")
 }
 ```
