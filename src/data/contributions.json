@@ -3,20 +3,19 @@
     "name": "bayt-alhikmah",
     "stars": 0,
     "url": "https://github.com/ZizouHuweidi/bayt-alhikmah",
-    "description": "The frotnend for the mission-ama app",
+    "description": "simple library app",
     "languages": [
       "Go"
     ],
     "role": "author"
   },
   {
-    "name": "bayt-alhikmah-frontend",
+    "name": "zedit",
     "stars": 0,
-    "url": "https://github.com/ZizouHuweidi/bayt-alhikmah-frontend",
-    "description": "The frotnend for the mission-ama app",
+    "url": "https://github.com/ZizouHuweidi/zedit",
+    "description": "minimal text editor",
     "languages": [
-      "React",
-      "TypeScript"
+      "C"
     ],
     "role": "author"
   },
@@ -35,7 +34,7 @@
     "name": "mission-ama",
     "stars": 0,
     "url": "https://github.com/ZizouHuweidi/mission-ama",
-    "description": "The backend for the mission-ama app",
+    "description": "The mission-ama app",
     "languages": [
       "TypeScript",
       "Prisma"
