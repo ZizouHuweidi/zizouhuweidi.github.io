@@ -4,16 +4,16 @@
 		"text": "Go"
 	},
 	{
-		"logo": "nodejs",
-		"text": "Node.js"
+		"logo": "typescript",
+		"text": "TypeScript"
 	},
 	{
 		"logo": "python",
 		"text": "Python"
 	},
 	{
-		"logo": "docker",
-		"text": "Docker"
+		"logo": "cpp",
+		"text": "C++"
 	},
 	{
 		"logo": "postgres",
