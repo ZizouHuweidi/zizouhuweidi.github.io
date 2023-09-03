@@ -12,8 +12,16 @@
 		"text": "Python"
 	},
 	{
+		"logo": "java",
+		"text": "Java"
+	},
+	{
 		"logo": "cpp",
 		"text": "C++"
+	},
+	{
+		"logo": "rust",
+		"text": "Rust"
 	},
 	{
 		"logo": "postgres",
