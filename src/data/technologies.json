@@ -12,12 +12,12 @@
 		"text": "C++"
 	},
 	{
-		"logo": "java",
-		"text": "Java"
-	},
-	{
 		"logo": "python",
 		"text": "Python"
+	},
+	{
+		"logo": "java",
+		"text": "Java"
 	},
 	{
 		"logo": "rust",
