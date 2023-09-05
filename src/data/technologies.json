@@ -8,20 +8,12 @@
 		"text": "TypeScript"
 	},
 	{
-		"logo": "cpp",
-		"text": "C++"
-	},
-	{
 		"logo": "python",
 		"text": "Python"
 	},
 	{
-		"logo": "java",
-		"text": "Java"
-	},
-	{
-		"logo": "rust",
-		"text": "Rust"
+		"logo": "cpp",
+		"text": "C++"
 	},
 	{
 		"logo": "postgres",
