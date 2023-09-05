@@ -30,5 +30,13 @@
 	{
 		"logo": "astro",
 		"text": "Astro"
+	},
+	{
+		"logo": "htmx",
+		"text": "HTMX"
+	},
+	{
+		"logo": "tailwind",
+		"text": "Tailwind"
 	}
 ]
