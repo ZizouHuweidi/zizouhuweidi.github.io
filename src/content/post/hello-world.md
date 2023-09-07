@@ -1,8 +1,8 @@
 ---
-title: Hello World
+title: hello, world!
 description: Hello world examples in the languages that I use, familiar with and that I am curious about.
 publishDate: "13 March 2023"
-tags: [Go, Typescript, Python, C++, Rust, Java]
+tags: [coding]
 ---
 
 # Go
@@ -13,20 +13,20 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("Hello, world!")
+    fmt.Println("hello, world!")
   }
 ```
 
 # Typescript
 
 ```ts
-cosnole.log("Hello, world!");
+cosnole.log("hello, world!");
 ```
 
 # Python
 
 ```py
-print("Hello, world!")
+print("hello, world!")
 ```
 
 # C++
@@ -35,7 +35,7 @@ print("Hello, world!")
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, world!";
+    std::cout << "hello, world!";
     return 0;
 }
 ```
@@ -44,7 +44,7 @@ int main() {
 
 ```rs
 fn main() {
-	println!("Hello, world!");
+	println!("hello, world!");
 }
 ```
 
@@ -54,7 +54,7 @@ fn main() {
 public class Main {
 
   public static void main(String[] args) {
-  	System.out.println("Hello, world!");
+  	System.out.println("hello, world!");
   }
 
 }
