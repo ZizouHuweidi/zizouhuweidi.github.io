@@ -1,6 +1,6 @@
 ---
 title: hello, world!
-description: Hello world examples in the languages that I use, familiar with and that I am curious about.
+description: hello, world! examples in the languages that I use and or familiar with
 publishDate: "13 March 2023"
 tags: [coding]
 ---
@@ -17,16 +17,16 @@ func main() {
   }
 ```
 
-# Typescript
-
-```ts
-cosnole.log("hello, world!");
-```
-
 # Python
 
 ```py
 print("hello, world!")
+```
+
+# Typescript
+
+```ts
+cosnole.log("hello, world!");
 ```
 
 # C++
@@ -37,14 +37,6 @@ print("hello, world!")
 int main() {
     std::cout << "hello, world!";
     return 0;
-}
-```
-
-# Rust
-
-```rs
-fn main() {
-	println!("hello, world!");
 }
 ```
 

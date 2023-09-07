@@ -4,16 +4,16 @@
 		"text": "Go"
 	},
 	{
-		"logo": "typescript",
-		"text": "TypeScript"
+		"logo": "docker",
+		"text": "Docker"
 	},
 	{
 		"logo": "python",
 		"text": "Python"
 	},
 	{
-		"logo": "docker",
-		"text": "Docker"
+		"logo": "cpp",
+		"text": "C++"
 	},
 	{
 		"logo": "postgres",
@@ -28,15 +28,15 @@
 		"text": "React"
 	},
 	{
-		"logo": "astro",
-		"text": "Astro"
+		"logo": "typescript",
+		"text": "TypeScript"
 	},
 	{
 		"logo": "htmx",
 		"text": "HTMX"
 	},
 	{
-		"logo": "tailwind",
-		"text": "Tailwind"
+		"logo": "astro",
+		"text": "Astro"
 	}
 ]
