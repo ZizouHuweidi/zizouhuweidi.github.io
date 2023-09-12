@@ -1,97 +1,82 @@
 [
-  {
-    "name": "bayt-alhikmah",
-    "stars": 0,
-    "url": "https://github.com/ZizouHuweidi/bayt-alhikmah",
-    "description": "simple library app",
-    "languages": [
-      "Go"
-    ],
-    "role": "author"
-  },
-  {
-    "name": "zedit",
-    "stars": 0,
-    "url": "https://github.com/ZizouHuweidi/zedit",
-    "description": "minimal text editor",
-    "languages": [
-      "C"
-    ],
-    "role": "author"
-  },
-  {
-    "name": "mission-ama-frontend",
-    "stars": 0,
-    "url": "https://github.com/ZizouHuweidi/mission-ama-frontend",
-    "description": "The frotnend for the mission-ama app",
-    "languages": [
-      "React",
-      "TypeScript"
-    ],
-    "role": "author"
-  },
-  {
-    "name": "mission-ama",
-    "stars": 0,
-    "url": "https://github.com/ZizouHuweidi/mission-ama",
-    "description": "The mission-ama app",
-    "languages": [
-      "TypeScript",
-      "Prisma"
-    ],
-    "role": "author"
-  },
-  {
-    "name": "go-piler",
-    "stars": 0,
-    "url": "https://github.com/ZizouHuweidi/go-terpreter",
-    "description": "compiler for The Monkey programming language",
-    "languages": [
-      "Go"
-    ],
-    "role": "author"
-  },
-  {
-    "name": "go-terpreter",
-    "stars": 0,
-    "url": "https://github.com/ZizouHuweidi/go-terpreter",
-    "description": "interpreter for The Monkey programming language",
-    "languages": [
-      "Go"
-    ],
-    "role": "author"
-  },
-  {
-    "name": "ractool-server",
-    "stars": 1,
-    "url": "https://github.com/ZizouHuweidi/ractool-server",
-    "description": "The server for the club management app of Rotary club",
-    "languages": [
-      "TypeScript",
-      "Prisma"
-    ],
-    "role": "author"
-  },
-  {
-    "name": "zizouhuweidi.github.io",
-    "stars": 1,
-    "url": "https://github.com/ZizouHuweidi/zizouhuweidi.github.io",
-    "description": "Personal website",
-    "languages": [
-      "Astro",
-      "TypeScript"
-    ],
-    "role": "author"
-  },
-  {
-    "name": "dotfiles",
-    "stars": 1,
-    "url": "https://github.com/ZizouHuweidi/dotfiles",
-    "description": "Personal dotfiles",
-    "languages": [
-      "Shell",
-      "Python"
-    ],
-    "role": "author"
-  }
+	{
+		"name": "bayt-alhikmah",
+		"stars": 0,
+		"url": "https://github.com/ZizouHuweidi/bayt-alhikmah",
+		"description": "simple library app",
+		"languages": ["Go"],
+		"role": "author"
+	},
+	{
+		"name": "data-labs",
+		"stars": 0,
+		"url": "https://github.com/ZizouHuweidi/data-labs",
+		"description": "data analytics course project",
+		"languages": ["Python"],
+		"role": "author"
+	},
+	{
+		"name": "zedit",
+		"stars": 0,
+		"url": "https://github.com/ZizouHuweidi/zedit",
+		"description": "minimal text editor",
+		"languages": ["C"],
+		"role": "author"
+	},
+	{
+		"name": "mission-ama",
+		"stars": 0,
+		"url": "https://github.com/ZizouHuweidi/mission-ama",
+		"description": "The mission-ama app",
+		"languages": ["Go", "HTMX"],
+		"role": "author"
+	},
+	{
+		"name": "advent-of-code",
+		"stars": 0,
+		"url": "https://github.com/ZizouHuweidi/advent-of-code",
+		"description": "my attempts at advent of code",
+		"languages": ["Go"],
+		"role": "author"
+	},
+	{
+		"name": "go-piler",
+		"stars": 0,
+		"url": "https://github.com/ZizouHuweidi/go-terpreter",
+		"description": "compiler for The Monkey programming language",
+		"languages": ["Go"],
+		"role": "author"
+	},
+	{
+		"name": "go-terpreter",
+		"stars": 0,
+		"url": "https://github.com/ZizouHuweidi/go-terpreter",
+		"description": "interpreter for The Monkey programming language",
+		"languages": ["Go"],
+		"role": "author"
+	},
+	{
+		"name": "ractool-server",
+		"stars": 1,
+		"url": "https://github.com/ZizouHuweidi/ractool-server",
+		"description": "The server for the club management app of Rotary club",
+		"languages": ["TypeScript", "Prisma"],
+		"role": "author"
+	},
+	{
+		"name": "zizouhuweidi.github.io",
+		"stars": 2,
+		"url": "https://github.com/ZizouHuweidi/zizouhuweidi.github.io",
+		"description": "Personal website",
+		"languages": ["Astro", "TypeScript"],
+		"role": "author"
+	},
+	{
+		"name": "dotfiles",
+		"stars": 1,
+		"url": "https://github.com/ZizouHuweidi/dotfiles",
+		"description": "Personal dotfiles",
+		"languages": ["Shell", "Python"],
+		"role": "author"
+	}
 ]
