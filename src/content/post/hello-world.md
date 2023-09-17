@@ -1,6 +1,6 @@
 ---
 title: hello, world!
-description: hello, world! examples in the languages that I use and or familiar with
+description: hello, world! examples in the languages that I keep in my toolbox
 publishDate: "13 March 2023"
 tags: [coding]
 ---
@@ -17,16 +17,10 @@ func main() {
   }
 ```
 
-# Python
-
-```py
-print("hello, world!")
-```
-
 # Typescript
 
 ```ts
-cosnole.log("hello, world!");
+console.log("hello, world!");
 ```
 
 # C++
@@ -40,14 +34,8 @@ int main() {
 }
 ```
 
-# Java
+# Python
 
-```java
-public class Main {
-
-  public static void main(String[] args) {
-  	System.out.println("hello, world!");
-  }
-
-}
+```py
+print("hello, world!")
 ```
