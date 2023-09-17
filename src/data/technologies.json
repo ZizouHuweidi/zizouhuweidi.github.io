@@ -32,11 +32,11 @@
 		"text": "Astro"
 	},
 	{
-		"logo": "python",
-		"text": "Python"
-	},
-	{
 		"logo": "cpp",
 		"text": "C++"
+	},
+	{
+		"logo": "python",
+		"text": "Python"
 	}
 ]
