@@ -20,12 +20,12 @@
 		"text": "TypeScript"
 	},
 	{
-		"logo": "htmx",
-		"text": "HTMX"
-	},
-	{
 		"logo": "react",
 		"text": "React"
+	},
+	{
+		"logo": "htmx",
+		"text": "HTMX"
 	},
 	{
 		"logo": "astro",
