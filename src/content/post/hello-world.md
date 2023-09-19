@@ -17,6 +17,12 @@ func main() {
   }
 ```
 
+# Typescript
+
+```ts
+console.log("hello, world!");
+```
+
 # C++
 
 ```cpp
@@ -34,8 +40,12 @@ int main() {
 print("hello, world!")
 ```
 
-# Typescript
+# Java
 
-```ts
-console.log("hello, world!");
+```java
+public class Main {
+  public static void main(String[] args) {
+  	System.out.println("hello, world!");
+  }
+}
 ```
