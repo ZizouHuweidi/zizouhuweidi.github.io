@@ -16,6 +16,14 @@
 		"text": "Redis"
 	},
 	{
+		"logo": "cpp",
+		"text": "C++"
+	},
+	{
+		"logo": "python",
+		"text": "Python"
+	},
+	{
 		"logo": "typescript",
 		"text": "TypeScript"
 	},
@@ -30,13 +38,5 @@
 	{
 		"logo": "astro",
 		"text": "Astro"
-	},
-	{
-		"logo": "cpp",
-		"text": "C++"
-	},
-	{
-		"logo": "python",
-		"text": "Python"
 	}
 ]

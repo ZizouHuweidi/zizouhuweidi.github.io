@@ -17,12 +17,6 @@ func main() {
   }
 ```
 
-# Typescript
-
-```ts
-console.log("hello, world!");
-```
-
 # C++
 
 ```cpp
@@ -38,4 +32,10 @@ int main() {
 
 ```py
 print("hello, world!")
+```
+
+# Typescript
+
+```ts
+console.log("hello, world!");
 ```
