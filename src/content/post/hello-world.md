@@ -1,8 +1,8 @@
 ---
 title: hello, world!
-description: hello, world! examples in the languages that I keep in my toolbox
+description: hello, world! examples in the languages that I use
 publishDate: "13 March 2023"
-tags: [coding]
+tags: [go, typescript, cpp, python]
 ---
 
 # Go
@@ -38,14 +38,4 @@ int main() {
 
 ```py
 print("hello, world!")
-```
-
-# Java
-
-```java
-public class Main {
-  public static void main(String[] args) {
-  	System.out.println("hello, world!");
-  }
-}
 ```
