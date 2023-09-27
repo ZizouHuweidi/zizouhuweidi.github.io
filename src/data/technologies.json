@@ -8,20 +8,20 @@
 		"text": "Typescript"
 	},
 	{
-		"logo": "cpp",
-		"text": "C++"
-	},
-	{
 		"logo": "postgres",
 		"text": "Postgres"
 	},
 	{
-		"logo": "redis",
-		"text": "Redis"
-	},
-	{
 		"logo": "docker",
 		"text": "Docker"
+	},
+	{
+		"logo": "cpp",
+		"text": "C++"
+	},
+	{
+		"logo": "python",
+		"text": "Python"
 	},
 	{
 		"logo": "htmx",
@@ -30,13 +30,5 @@
 	{
 		"logo": "react",
 		"text": "React"
-	},
-	{
-		"logo": "astro",
-		"text": "Astro"
-	},
-	{
-		"logo": "python",
-		"text": "Python"
 	}
 ]
