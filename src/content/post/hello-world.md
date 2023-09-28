@@ -23,6 +23,12 @@ func main() {
 console.log("hello, world!");
 ```
 
+# Python
+
+```py
+print("hello, world!")
+```
+
 # C++
 
 ```cpp
@@ -32,10 +38,4 @@ int main() {
     std::cout << "hello, world!";
     return 0;
 }
-```
-
-# Python
-
-```py
-print("hello, world!")
 ```
