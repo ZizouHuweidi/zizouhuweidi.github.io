@@ -12,16 +12,16 @@
 		"text": "Postgres"
 	},
 	{
-		"logo": "docker",
-		"text": "Docker"
+		"logo": "redis",
+		"text": "Redis"
 	},
 	{
 		"logo": "python",
 		"text": "Python"
 	},
 	{
-		"logo": "cpp",
-		"text": "C++"
+		"logo": "docker",
+		"text": "Docker"
 	},
 	{
 		"logo": "htmx",

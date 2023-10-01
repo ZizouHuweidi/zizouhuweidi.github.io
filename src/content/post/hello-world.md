@@ -1,8 +1,8 @@
 ---
 title: hello, world!
-description: hello, world! examples in the languages that I use
+description: hello, world! examples in the languages that I am familiar with
 publishDate: "13 March 2023"
-tags: [go, typescript, cpp, python]
+tags: [coding]
 ---
 
 # Go
@@ -29,6 +29,18 @@ console.log("hello, world!");
 print("hello, world!")
 ```
 
+# Java
+
+```java
+public class Main {
+
+  public static void main(String[] args) {
+  	System.out.println("hello, world!");
+  }
+
+}
+```
+
 # C++
 
 ```cpp
@@ -37,5 +49,13 @@ print("hello, world!")
 int main() {
     std::cout << "hello, world!";
     return 0;
+}
+```
+
+# Rust
+
+```rs
+fn main() {
+    println!("hello, world!");
 }
 ```
