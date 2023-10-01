@@ -51,11 +51,3 @@ int main() {
     return 0;
 }
 ```
-
-# Rust
-
-```rs
-fn main() {
-    println!("hello, world!");
-}
-```
