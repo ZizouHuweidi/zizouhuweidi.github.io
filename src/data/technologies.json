@@ -4,23 +4,31 @@
 		"text": "Go"
 	},
 	{
-		"logo": "python",
-		"text": "Python"
+		"logo": "typescript",
+		"text": "Typescript"
 	},
 	{
 		"logo": "postgres",
 		"text": "Postgres"
 	},
 	{
-		"logo": "docker",
-		"text": "Docker"
+		"logo": "redis",
+		"text": "Redis"
 	},
 	{
-		"logo": "typescript",
-		"text": "Typescript"
+		"logo": "python",
+		"text": "Python"
+	},
+	{
+		"logo": "java",
+		"text": "Java"
 	},
 	{
 		"logo": "react",
 		"text": "React"
+	},
+	{
+		"logo": "docker",
+		"text": "Docker"
 	}
 ]
