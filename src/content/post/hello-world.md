@@ -17,16 +17,16 @@ func main() {
   }
 ```
 
-# Python
-
-```py
-print("hello, world!")
-```
-
 # Typescript
 
 ```ts
 console.log("hello, world!");
+```
+
+# Python
+
+```py
+print("hello, world!")
 ```
 
 # Java
@@ -41,14 +41,6 @@ public class Main {
 }
 ```
 
-# Kotlin
-
-```kotlin
-fun main() {
-    println("hello, world!")
-}
-```
-
 # C++
 
 ```cpp
@@ -57,13 +49,5 @@ fun main() {
 int main() {
     std::cout << "hello, world!";
     return 0;
-}
-```
-
-# Rust
-
-```rust
-fun main() {
-    println!("hello, world!");
 }
 ```
