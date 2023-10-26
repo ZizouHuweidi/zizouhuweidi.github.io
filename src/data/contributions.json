@@ -16,14 +16,6 @@
 		"role": "author"
 	},
 	{
-		"name": "zedit",
-		"stars": 0,
-		"url": "https://github.com/ZizouHuweidi/zedit",
-		"description": "minimal text editor",
-		"languages": ["C"],
-		"role": "author"
-	},
-	{
 		"name": "mission-ama",
 		"stars": 0,
 		"url": "https://github.com/ZizouHuweidi/mission-ama",
@@ -36,7 +28,7 @@
 		"stars": 0,
 		"url": "https://github.com/ZizouHuweidi/advent-of-code",
 		"description": "my attempts at advent of code",
-		"languages": ["Go"],
+		"languages": ["Go, Python"],
 		"role": "author"
 	},
 	{
