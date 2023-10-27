@@ -41,13 +41,8 @@ public class Main {
 }
 ```
 
-# C++
+# C#
 
-```cpp
-#include <iostream>
-
-int main() {
-    std::cout << "hello, world!";
-    return 0;
-}
+```cs
+Console.WriteLine("Hello, World!");
 ```
