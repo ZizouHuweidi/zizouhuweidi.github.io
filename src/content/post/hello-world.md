@@ -5,16 +5,25 @@ publishDate: "13 March 2023"
 tags: [coding]
 ---
 
-# Go
+# C
+```c 
+#include <stdio.h>
 
-```go
-package main
+int main() {
+    printf("hello, world!");
+    return 0;
+}
+```
 
-import "fmt"
+# C++
 
-func main() {
-    fmt.Println("hello, world!")
-  }
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "hello, world!";
+    return 0;
+}
 ```
 
 # Java
@@ -29,26 +38,45 @@ public class Main {
 }
 ```
 
-# Typescript
-
-```ts
-console.log("hello, world!");
-```
-
 # Python
 
 ```py
 print("hello, world!")
 ```
 
+# JavaScript
 
-# C++
+```js
+console.log("hello, world!");
+```
+# Go
 
-```cpp
-#include <iostream>
+```go
+package main
 
-int main() {
-    std::cout << "hello, world!";
-    return 0;
+import "fmt"
+
+func main() {
+    fmt.Println("hello, world!")
+  }
+```
+
+# TypeScript
+
+```js
+console.log("hello, world!");
+```
+
+# Kotlin
+```kotlin
+fun main() {
+    println("hello, world!")
+}
+```
+
+# Rust 
+```rs
+fn main() {
+    println!("hello, world!");
 }
 ```
