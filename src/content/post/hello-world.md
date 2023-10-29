@@ -17,6 +17,18 @@ func main() {
   }
 ```
 
+# Java
+
+```java
+public class Main {
+
+  public static void main(String[] args) {
+  	System.out.println("hello, world!");
+  }
+
+}
+```
+
 # Typescript
 
 ```ts
@@ -29,17 +41,6 @@ console.log("hello, world!");
 print("hello, world!")
 ```
 
-# Java
-
-```java
-public class Main {
-
-  public static void main(String[] args) {
-  	System.out.println("hello, world!");
-  }
-
-}
-```
 
 # C++
 
