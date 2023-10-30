@@ -4,8 +4,16 @@
 		"text": "Go"
 	},
 	{
-		"logo": "java",
-		"text": "Java"
+		"logo": "python",
+		"text": "Python"
+	},
+	{
+		"logo": "kotlin",
+		"text": "Kotlin"
+	},
+	{
+		"logo": "spring",
+		"text": "Spring Boot"
 	},
 	{
 		"logo": "postgres",
@@ -20,8 +28,8 @@
 		"text": "Docker"
 	},
 	{
-		"logo": "python",
-		"text": "Python"
+		"logo": "kafka",
+		"text": "Kafta"
 	},
 	{
 		"logo": "typescript",
