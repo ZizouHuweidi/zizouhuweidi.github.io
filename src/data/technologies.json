@@ -4,8 +4,8 @@
 		"text": "Go"
 	},
 	{
-		"logo": "python",
-		"text": "Python"
+		"logo": "grpc",
+		"text": "GRPC"
 	},
 	{
 		"logo": "kotlin",
@@ -24,12 +24,20 @@
 		"text": "Redis"
 	},
 	{
+		"logo": "python",
+		"text": "Python"
+	},
+	{
 		"logo": "docker",
 		"text": "Docker"
 	},
 	{
 		"logo": "kafka",
 		"text": "Kafta"
+	},
+	{
+		"logo": "kubernetes",
+		"text": "Kubernetes"
 	},
 	{
 		"logo": "typescript",
