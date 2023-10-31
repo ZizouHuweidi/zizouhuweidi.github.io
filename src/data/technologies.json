@@ -8,14 +8,6 @@
 		"text": "Python"
 	},
 	{
-		"logo": "kotlin",
-		"text": "Kotlin"
-	},
-	{
-		"logo": "spring",
-		"text": "Spring Boot"
-	},
-	{
 		"logo": "postgres",
 		"text": "Postgres"
 	},
