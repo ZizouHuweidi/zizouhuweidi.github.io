@@ -38,6 +38,12 @@ public class Main {
 }
 ```
 
+# C#
+
+```cs 
+Console.WriteLine("hello, world!");
+```
+
 # Python
 
 ```py
@@ -65,13 +71,6 @@ func main() {
 
 ```js
 console.log("hello, world!");
-```
-
-# Kotlin
-```kotlin
-fun main() {
-    println("hello, world!")
-}
 ```
 
 # Rust 
