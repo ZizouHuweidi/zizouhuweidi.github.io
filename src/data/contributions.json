@@ -4,7 +4,7 @@
 		"stars": 0,
 		"url": "https://github.com/ZizouHuweidi/bayt-alhikmah",
 		"description": "simple library app",
-		"languages": ["Go"],
+		"languages": ["C#"],
 		"role": "author"
 	},
 	{
@@ -28,15 +28,7 @@
 		"stars": 0,
 		"url": "https://github.com/ZizouHuweidi/advent-of-code",
 		"description": "my attempts at advent of code",
-		"languages": ["Go, Python"],
-		"role": "author"
-	},
-	{
-		"name": "go-piler",
-		"stars": 0,
-		"url": "https://github.com/ZizouHuweidi/go-terpreter",
-		"description": "compiler for The Monkey programming language",
-		"languages": ["Go"],
+		"languages": ["C#", "Go", "Python"],
 		"role": "author"
 	},
 	{
@@ -52,7 +44,7 @@
 		"stars": 1,
 		"url": "https://github.com/ZizouHuweidi/ractool-server",
 		"description": "The server for the club management app of Rotary club",
-		"languages": ["TypeScript", "Prisma"],
+		"languages": ["TypeScript"],
 		"role": "author"
 	},
 	{
@@ -68,7 +60,7 @@
 		"stars": 1,
 		"url": "https://github.com/ZizouHuweidi/dotfiles",
 		"description": "Personal dotfiles",
-		"languages": ["Shell", "Python"],
+		"languages": ["Bash", "Lua"],
 		"role": "author"
 	}
 ]
