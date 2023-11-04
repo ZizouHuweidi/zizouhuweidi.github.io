@@ -1,11 +1,11 @@
 [
 	{
-		"logo": "go",
-		"text": "Go"
-	},
-	{
 		"logo": "csharp",
 		"text": "C#"
+	},
+	{
+		"logo": "go",
+		"text": "Go"
 	},
 	{
 		"logo": "postgres",
@@ -20,16 +20,16 @@
 		"text": "Docker"
 	},
 	{
-		"logo": "grpc",
-		"text": "gRPC"
+		"logo": "kubernetes",
+		"text": "Kubernetes"
 	},
 	{
 		"logo": "kafka",
 		"text": "Kafta"
 	},
 	{
-		"logo": "kubernetes",
-		"text": "Kubernetes"
+		"logo": "grpc",
+		"text": "gRPC"
 	},
 	{
 		"logo": "typescript",
