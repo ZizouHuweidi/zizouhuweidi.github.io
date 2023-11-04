@@ -16,20 +16,12 @@
 		"text": "Redis"
 	},
 	{
+		"logo": "python",
+		"text": "Python"
+	},
+	{
 		"logo": "docker",
 		"text": "Docker"
-	},
-	{
-		"logo": "kubernetes",
-		"text": "Kubernetes"
-	},
-	{
-		"logo": "kafka",
-		"text": "Kafta"
-	},
-	{
-		"logo": "grpc",
-		"text": "gRPC"
 	},
 	{
 		"logo": "typescript",
