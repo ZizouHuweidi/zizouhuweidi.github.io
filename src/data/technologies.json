@@ -1,11 +1,11 @@
 [
 	{
-		"logo": "csharp",
-		"text": "C#"
-	},
-	{
 		"logo": "go",
 		"text": "Go"
+	},
+	{
+		"logo": "csharp",
+		"text": "C#"
 	},
 	{
 		"logo": "postgres",
