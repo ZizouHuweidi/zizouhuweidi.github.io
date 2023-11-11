@@ -20,16 +20,8 @@
 		"text": "RabbitMQ"
 	},
 	{
-		"logo": "kafka",
-		"text": "Kafta"
-	},
-	{
 		"logo": "docker",
 		"text": "Docker"
-	},
-	{
-		"logo": "kubernetes",
-		"text": "Kubernetes"
 	},
 	{
 		"logo": "typescript",
