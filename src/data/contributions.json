@@ -3,15 +3,23 @@
 		"name": "bayt-alhikmah",
 		"stars": 0,
 		"url": "https://github.com/ZizouHuweidi/bayt-alhikmah",
-		"description": "simple library app",
+		"description": "e-library microservices",
+		"languages": ["Go"],
+		"role": "author"
+	},
+	{
+		"name": "retro-station",
+		"stars": 0,
+		"url": "https://github.com/ZizouHuweidi/retro-station",
+		"description": "retro video game shop microservices",
 		"languages": ["C#"],
 		"role": "author"
 	},
 	{
-		"name": "data-labs",
+		"name": "slander-detection",
 		"stars": 0,
 		"url": "https://github.com/ZizouHuweidi/data-labs",
-		"description": "data analytics course project",
+		"description": "model for detecting insults",
 		"languages": ["Python"],
 		"role": "author"
 	},
@@ -20,7 +28,7 @@
 		"stars": 0,
 		"url": "https://github.com/ZizouHuweidi/mission-ama",
 		"description": "The mission-ama app",
-		"languages": ["Go", "HTMX"],
+		"languages": ["Go", "React"],
 		"role": "author"
 	},
 	{
@@ -28,7 +36,7 @@
 		"stars": 0,
 		"url": "https://github.com/ZizouHuweidi/advent-of-code",
 		"description": "my attempts at advent of code",
-		"languages": ["C#", "Go", "Python"],
+		"languages": ["Go", "Python"],
 		"role": "author"
 	},
 	{
