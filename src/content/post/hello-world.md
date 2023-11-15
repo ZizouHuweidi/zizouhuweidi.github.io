@@ -26,13 +26,17 @@ print("hello, world!")
 
 # TypeScript
 
-```js
+```ts
 console.log("hello, world!");
 ```
 
+# C#
+```cs
+Console.WriteLine("hello, world!");
+```
 
 # C
-```c 
+```c
 #include <stdio.h>
 
 int main() {
