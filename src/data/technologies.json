@@ -20,16 +20,16 @@
 		"text": "RabbitMQ"
 	},
 	{
-		"logo": "kafka",
-		"text": "Kafka"
-	},
-	{
 		"logo": "grpc",
 		"text": "gRPC"
 	},
 	{
 		"logo": "docker",
 		"text": "Docker"
+	},
+	{
+		"logo": "kubernetes",
+		"text": "Kubernetes"
 	},
 	{
 		"logo": "typescript",
