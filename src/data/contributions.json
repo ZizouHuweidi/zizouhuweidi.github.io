@@ -28,7 +28,7 @@
 		"stars": 0,
 		"url": "https://github.com/ZizouHuweidi/mission-ama",
 		"description": "The mission-ama app",
-		"languages": ["Go"],
+		"languages": ["Go", "TypeScript"],
 		"role": "author"
 	},
 	{

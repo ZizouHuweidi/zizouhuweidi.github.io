@@ -1,6 +1,6 @@
 ---
 title: hello, world!
-description: hello, world! examples in languages that I like
+description: hello, world! examples in languages that I use
 publishDate: "13 March 2023"
 tags: [coding]
 ---
