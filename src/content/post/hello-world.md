@@ -30,11 +30,6 @@ print("hello, world!")
 console.log("hello, world!");
 ```
 
-# C#
-```cs
-Console.WriteLine("hello, world!");
-```
-
 # C
 ```c
 #include <stdio.h>
