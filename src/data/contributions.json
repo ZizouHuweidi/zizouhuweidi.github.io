@@ -12,7 +12,7 @@
 		"stars": 0,
 		"url": "https://github.com/ZizouHuweidi/retro-station",
 		"description": "retro video game shop microservices",
-		"languages": ["C#"],
+		"languages": ["Go"],
 		"role": "author"
 	},
 	{
@@ -28,7 +28,7 @@
 		"stars": 0,
 		"url": "https://github.com/ZizouHuweidi/mission-ama",
 		"description": "The mission-ama app",
-		"languages": ["Go", "React"],
+		"languages": ["Go"],
 		"role": "author"
 	},
 	{
