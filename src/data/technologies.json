@@ -4,8 +4,8 @@
 		"text": "Go"
 	},
 	{
-		"logo": "python",
-		"text": "Python"
+		"logo": "typescript",
+		"text": "Typescript"
 	},
 	{
 		"logo": "postgres",
@@ -16,27 +16,27 @@
 		"text": "Redis"
 	},
 	{
-		"logo": "rabbitmq",
-		"text": "RabbitMQ"
+		"logo": "mongodb",
+		"text": "MongoDB"
 	},
 	{
 		"logo": "grpc",
 		"text": "gRPC"
 	},
 	{
+		"logo": "rabbitmq",
+		"text": "RabbitMQ"
+	},
+	{
+		"logo": "kafka",
+		"text": "kafka"
+	},
+	{
+		"logo": "python",
+		"text": "Python"
+	},
+	{
 		"logo": "docker",
 		"text": "Docker"
-	},
-	{
-		"logo": "kubernetes",
-		"text": "Kubernetes"
-	},
-	{
-		"logo": "typescript",
-		"text": "Typescript"
-	},
-	{
-		"logo": "react",
-		"text": "React"
 	}
 ]
