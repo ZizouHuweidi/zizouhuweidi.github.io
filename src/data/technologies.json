@@ -38,13 +38,5 @@
 	{
 		"logo": "kubernetes",
 		"text": "Kubernetes"
-	},
-	{
-		"logo": "python",
-		"text": "Python"
-	},
-	{
-		"logo": "rust",
-		"text": "Rust"
 	}
 ]
