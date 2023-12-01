@@ -1,10 +1,9 @@
 ---
 title: hello, world!
-description: hello, world! examples in languages that I am using and learning
+description: hello, world! examples in languages that I use
 publishDate: "13 March 2023"
-tags: [Go, TypeScript, Python, Rust]
+tags: [Go, Python, TypeScript]
 ---
-
 
 # Go
 
@@ -18,22 +17,14 @@ func main() {
   }
 ```
 
-# TypeScript
-
-```ts
-console.log("hello, world!");
-```
-
 # Python
 
 ```py
 print("hello, world!")
 ```
 
-# Rust
+# TypeScript
 
-```rs
-fn main() {
-  println!("hello, world!");
-}
+```ts
+console.log("hello, world!");
 ```
