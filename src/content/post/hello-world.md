@@ -2,7 +2,7 @@
 title: hello, world!
 description: hello, world! examples in languages that I use
 publishDate: "13 March 2023"
-tags: [Go, TypeScript, Python, C++]
+tags: [Go, Python, TypeScript, C++]
 ---
 
 # Go
@@ -17,16 +17,16 @@ func main() {
   }
 ```
 
-# TypeScript
-
-```ts
-console.log("hello, world!");
-```
-
 # Python
 
 ```py
 print("hello, world!")
+```
+
+# TypeScript
+
+```ts
+console.log("hello, world!");
 ```
 
 # C++
