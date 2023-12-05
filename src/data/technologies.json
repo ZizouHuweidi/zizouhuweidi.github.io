@@ -4,8 +4,8 @@
 		"text": "Go"
 	},
 	{
-		"logo": "python",
-		"text": "Python"
+		"logo": "typescript",
+		"text": "Typescript"
 	},
 	{
 		"logo": "postgres",
@@ -40,8 +40,8 @@
 		"text": "Kubernetes"
 	},
 	{
-		"logo": "typescript",
-		"text": "Typescript"
+		"logo": "python",
+		"text": "Python"
 	},
 	{
 		"logo": "cpp",
