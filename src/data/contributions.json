@@ -1,10 +1,10 @@
 [
 	{
-		"name": "bayt-alhikmah",
+		"name": "swaggerless",
 		"stars": 0,
-		"url": "https://github.com/ZizouHuweidi/bayt-alhikmah",
-		"description": "e-library microservices",
-		"languages": ["Go"],
+		"url": "https://github.com/ZizouHuweidi/swaggerless",
+		"description": "code documentation generation using BERT",
+		"languages": ["Python"],
 		"role": "author"
 	},
 	{
@@ -18,7 +18,7 @@
 	{
 		"name": "slander-detection",
 		"stars": 0,
-		"url": "https://github.com/ZizouHuweidi/data-labs",
+		"url": "https://github.com/ZizouHuweidi/slander-detection",
 		"description": "model for detecting insults",
 		"languages": ["Python"],
 		"role": "author"
@@ -40,19 +40,11 @@
 		"role": "author"
 	},
 	{
-		"name": "go-terpreter",
+		"name": "monke",
 		"stars": 0,
-		"url": "https://github.com/ZizouHuweidi/go-terpreter",
-		"description": "interpreter for The Monkey programming language",
+		"url": "https://github.com/ZizouHuweidi/monke",
+		"description": "the monke programming language",
 		"languages": ["Go"],
-		"role": "author"
-	},
-	{
-		"name": "ractool-server",
-		"stars": 1,
-		"url": "https://github.com/ZizouHuweidi/ractool-server",
-		"description": "The server for the club management app of Rotary club",
-		"languages": ["TypeScript"],
 		"role": "author"
 	},
 	{
