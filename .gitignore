@@ -1,6 +1,0 @@
-.DS_Store
-.vscode
-.hugo_build.lock
-
-build/
-/resources/_gen/
