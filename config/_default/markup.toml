@@ -6,10 +6,9 @@
 unsafe = true
 
 [highlight]
-noClasses = true
 style = "gruvbox"
 
 
 [tableOfContents]
-startLevel = 2
+startLevel = 0
 endLevel = 4

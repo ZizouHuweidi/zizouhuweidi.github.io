@@ -1,33 +1,30 @@
 ---
-date: 2022-11-17T22:09:13Z
-description: ""
 showdate: false
 showPagination: false
 showReadingTime: false
 showTableOfContents: false
+showComments: false
 aliases: "about"
 ---
 
 # whoami
 
-Muslim, Libyan and Software Engineer.
+Muslim, Libyan, Software Engineer. Open source and MMA enthusiast.
 
-I strive to understand things deeply to achieve simplicity without sacrificing correctness, efficiency or practicality
+I value simplicity in everything which is why I strive to understand things deeply to achieve simplicity without sacrificing correctness, efficiency or practicality
 
 The goal is to be a key to goodness and leave behind a legacy of beneficial knowledge.
 
 # interests
 
-I am interested in Backend development, Distributed Systems and System Design
-
-MMA and Football fan
+Interested in Backend development, Distributed Systems and System Design
 
 # tech
 
 I like technology that gets out of your way as much as possible and helps you focus on the task you want to solve
 
 
-Here are some of the favorite technologies I enjoy using:
+Here are some technologies I enjoy using:
 - Go {{<icon "go">}}  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Python {{<icon "python">}}
 - Postgres {{<icon "postgres">}}  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Redis {{<icon "redis">}}
 - RabbitMQ {{<icon "rabbitmq">}}  &nbsp; &nbsp; &nbsp; &nbsp;  gRPC {{<icon "grpc">}}

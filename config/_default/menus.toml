@@ -11,19 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "posts"
-  pageRef = "posts"
-  weight = 10
+name = "posts"
+pageRef = "posts"
+weight = 10
 
 [[main]]
-  name = "projects"
-  pageRef = "projects"
-  weight = 20
+name = "projects"
+pageRef = "projects"
+weight = 20
 
 [[main]]
-  name = "whoami"
-  pageRef = "whoami"
-  weight = 30
+name = "whoami"
+pageRef = "whoami"
+weight = 30
 
 
 # -- Footer Menu --

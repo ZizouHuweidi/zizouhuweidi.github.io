@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "projects"
 description: "some stuff I am working on or worked on"
 cascade:
   showReadingTime: false
