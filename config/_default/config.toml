@@ -11,7 +11,7 @@ title = "home"
 
 [services]
 [services.disqus]
-shortname = 'zizouhuweidi'
+shortname = 'https-zizouhuweidi-github-io'
 
 [author]
 name = "El Zubeir Huweidi"
