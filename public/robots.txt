@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zizouhuweidi.github.io/sitemap.xml
