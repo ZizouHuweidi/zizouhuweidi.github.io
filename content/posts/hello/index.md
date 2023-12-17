@@ -24,3 +24,17 @@ func main() {
 print("hello, world!")
 ```
 
+# JS
+```js
+console.log("hello, world!")
+```
+
+# C
+```c
+#include <stdio.h>
+
+int main() {
+  printf("hello, world!");
+  return 0;
+}
+```
