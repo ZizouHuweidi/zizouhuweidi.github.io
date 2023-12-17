@@ -6,36 +6,7 @@ summary: "hello, world!"
 topics: ["programming"]
 ---
 
-
-# C
-```c
-#include <stdio.h>
-
-int main() {
-  printf("hello, world!");
-  return 0;
-}
-```
-
-# Java
-```java
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("hello, world!");
-  }
-}
-```
-
-# Python
-
-```py
-print("hello, world!")
-```
-
-# TS
-```ts
-console.log("hello, world!")
-```
+hello, world! in the languages I use
 
 # Go
 
@@ -47,4 +18,15 @@ import "fmt"
 func main() {
     fmt.Println("hello, world!")
   }
+```
+
+# Python
+
+```py
+print("hello, world!")
+```
+
+# TS
+```ts
+console.log("hello, world!")
 ```
