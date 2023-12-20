@@ -6,7 +6,6 @@ summary: "hello, world!"
 topics: ["programming"]
 ---
 
-hello, world! in the languages I use
 
 # Go
 
@@ -24,9 +23,4 @@ func main() {
 
 ```py
 print("hello, world!")
-```
-
-# TS
-```ts
-console.log("hello, world!")
 ```
