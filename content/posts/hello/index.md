@@ -15,12 +15,25 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("hello, world!")
-  }
+  fmt.Println("hello, world!")
+}
+```
+
+# TS
+
+```ts
+console.log("hello, world!")
 ```
 
 # Python
-
 ```py
 print("hello, world!")
+```
+
+# Zig
+```zig
+const std = @import("std");
+pub fn main() !void {
+  std.debug.print("hello, world!\n", .{});
+}
 ```
