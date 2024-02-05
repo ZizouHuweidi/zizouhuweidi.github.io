@@ -30,12 +30,9 @@ console.log("hello, world!")
 print("hello, world!")
 ```
 
-# C
-```c
-#include <stdio.h>
-
-int main() {
-  printf("hello, world!\n");
-  return 0;
+# Kotlin
+```kt
+fun main() {
+  println("hello, world!")
 }
 ```
