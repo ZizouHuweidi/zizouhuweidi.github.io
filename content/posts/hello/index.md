@@ -36,3 +36,10 @@ fun main() {
   println("hello, world!")
 }
 ```
+
+# Rust
+```rs
+fn main() {
+  println!("hello, world!");
+}
+```
