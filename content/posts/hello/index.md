@@ -29,10 +29,3 @@ console.log("hello, world!")
 ```py
 print("hello, world!")
 ```
-
-# Kotlin
-```kt
-fun main() {
-  println("hello, world!")
-}
-```
