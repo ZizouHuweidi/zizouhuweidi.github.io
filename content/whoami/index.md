@@ -17,7 +17,7 @@ The goal is to be a key to goodness and leave behind a legacy of beneficial know
 
 # interests
 
-Backend Engineer interested in Distributed Systems and System Design
+Backend Engineer interested in System Design
 
 # tech
 

@@ -8,7 +8,6 @@ topics: ["programming"]
 
 
 # Go
-
 ```go
 package main
 
@@ -19,13 +18,12 @@ func main() {
 }
 ```
 
-# TS
-
-```ts
-console.log("hello, world!")
-```
-
 # Python
 ```py
 print("hello, world!")
+```
+
+# TS
+```ts
+console.log("hello, world!")
 ```
