@@ -27,3 +27,11 @@ print("hello, world!")
 ```ts
 console.log("hello, world!")
 ```
+# C
+```c
+#include <stdio.h>
+
+int main() {
+  printf("hello, world!");
+}
+```
