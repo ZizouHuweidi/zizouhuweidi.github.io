@@ -23,7 +23,7 @@ func main() {
 print("hello, world!")
 ```
 
-# TS
+# TypeScript
 ```ts
 console.log("hello, world!")
 ```
