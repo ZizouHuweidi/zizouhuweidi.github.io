@@ -24,8 +24,9 @@ Backend Engineer interested in System Design and Distributed Systems.
 I like technology that gets out of your way as much as possible and helps you focus on the task you want to solve
 
 
-Here are some technologies that I use:
-- Go {{<icon "go">}}  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TypeScript {{<icon "typescript">}}
-- Postgres {{<icon "postgres">}}  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Redis {{<icon "redis">}}
-- RabbitMQ {{<icon "rabbitmq">}}  &nbsp; &nbsp; &nbsp; &nbsp;  gRPC {{<icon "grpc">}}
-- Docker {{<icon "docker">}}  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Linux {{<icon "linux">}}
+Here are some technologies that I use regularly:
+- Go {{<icon "go">}}
+- Postgres {{<icon "postgres">}}
+- gRPC {{<icon "grpc">}}
+- RabbitMQ {{<icon "rabbitmq">}}
+- Docker {{<icon "docker">}}
