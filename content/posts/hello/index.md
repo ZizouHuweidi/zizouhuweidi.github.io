@@ -17,12 +17,6 @@ func main() {
   fmt.Println("hello, world!")
 }
 ```
-
-# Python
-```py
-print("hello, world!")
-```
-
 # TypeScript
 ```ts
 console.log("hello, world!")
@@ -32,4 +26,8 @@ console.log("hello, world!")
 fn main() {
     println!("Hello, world!");
 }
+```
+# Python
+```py
+print("hello, world!")
 ```
