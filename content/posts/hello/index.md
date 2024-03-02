@@ -21,13 +21,13 @@ func main() {
 ```ts
 console.log("hello, world!")
 ```
+# Python
+```py
+print("hello, world!")
+```
 # Rust
 ```rs
 fn main() {
     println!("Hello, world!");
 }
-```
-# Python
-```py
-print("hello, world!")
 ```
