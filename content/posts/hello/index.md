@@ -17,13 +17,13 @@ func main() {
   fmt.Println("hello, world!")
 }
 ```
-# TypeScript
-```ts
-console.log("hello, world!")
-```
 # Python
 ```py
 print("hello, world!")
+```
+# TypeScript
+```ts
+console.log("hello, world!")
 ```
 # Rust
 ```rs
