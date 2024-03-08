@@ -25,14 +25,6 @@ print("hello, world!")
 ```ts
 console.log("hello, world!")
 ```
-# Java
-```java
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("hello, world!");
-  }
-}
-```
 # Rust
 ```rs
 fn main() {
