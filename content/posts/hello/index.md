@@ -6,8 +6,8 @@ summary: "hello, world!"
 topics: ["programming"]
 ---
 
-
 # Go
+
 ```go
 package main
 
@@ -17,15 +17,31 @@ func main() {
   fmt.Println("hello, world!")
 }
 ```
+
+# TypeScript
+
+```ts
+console.log("hello, world!");
+```
+
 # Python
+
 ```py
 print("hello, world!")
 ```
-# TypeScript
-```ts
-console.log("hello, world!")
+
+# Java
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("hello, world!");
+    }
+}
 ```
+
 # Rust
+
 ```rs
 fn main() {
     println!("Hello, world!");
