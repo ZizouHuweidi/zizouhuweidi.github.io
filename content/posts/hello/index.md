@@ -30,10 +30,20 @@ console.log("hello, world!");
 print("hello, world!")
 ```
 
+# Java
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("hello, world!");
+    }
+}
+```
+
 # Rust
 
 ```rs
 fn main() {
-    println!("Hello, world!");
+    println!("hello, world!");
 }
 ```
