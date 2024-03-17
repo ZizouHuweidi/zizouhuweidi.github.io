@@ -13,7 +13,7 @@ Muslim, Libyan, Software Engineer.
 
 I value simplicity in everything, which is why I strive to understand things deeply to achieve simplicity without sacrificing correctness, efficiency or practicality
 
-The goal is to be a key to goodness and leave behind a legacy of beneficial knowledge.
+The goal is to be a key to goodness and leave behind a legacy of goodness.
 
 # interests
 
