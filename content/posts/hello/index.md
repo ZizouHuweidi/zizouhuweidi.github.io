@@ -34,11 +34,3 @@ print("hello, world!")
 ```ts
 console.log("hello, world!");
 ```
-
-# Rust
-
-```rs
-fn main() {
-  println!("hello, world!");
-}
-```
