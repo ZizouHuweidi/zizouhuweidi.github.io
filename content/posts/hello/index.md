@@ -6,6 +6,11 @@ summary: "hello, world!"
 topics: ["programming"]
 ---
 
+just like I eventually got to actually making my website,
+I will one day eventually get to writing an actual blog post InshAllah.
+
+For now enjoy these 'hello, world!' examples in my languages of choice.
+
 # Go
 
 ```go
@@ -34,6 +39,6 @@ console.log("hello, world!");
 
 ```rs
 fn main() {
-    println!("hello, world!");
+  println!("hello, world!");
 }
 ```
