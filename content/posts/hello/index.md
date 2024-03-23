@@ -7,9 +7,9 @@ topics: ["programming"]
 ---
 
 just like I eventually got to actually making my website,
-I will one day eventually get to writing an actual blog post InshAllah.
+I will one day eventually get to writing an actual blog post, InshAllah.
 
-For now enjoy these 'hello, world!' examples in my languages of choice.
+for now enjoy these 'hello, world!' examples in languages I am familiar with:
 
 # Go
 
@@ -33,4 +33,14 @@ print("hello, world!")
 
 ```ts
 console.log("hello, world!");
+```
+
+# Java
+
+```java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("hello, world!");
+  }
+}
 ```
