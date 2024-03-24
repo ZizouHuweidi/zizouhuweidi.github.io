@@ -9,6 +9,4 @@ cascade:
   showTaxonomies: true
 ---
 
-some stuff I am working on or worked on
-
-WIP
+some side projects i goof around with

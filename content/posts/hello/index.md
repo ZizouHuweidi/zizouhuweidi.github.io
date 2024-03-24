@@ -9,7 +9,7 @@ topics: ["programming"]
 just like I eventually got to actually making my website,
 I will one day eventually get to writing an actual blog post, InshAllah.
 
-for now enjoy these 'hello, world!' examples in languages I am familiar with:
+for now enjoy these 'hello, world!' examples in my languages of choice:
 
 # Go
 
@@ -35,12 +35,13 @@ print("hello, world!")
 console.log("hello, world!");
 ```
 
-# Java
+# C
 
-```java
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("hello, world!");
-  }
+```c
+#include <stdio.h>
+
+int main() {
+  printf("hello, world!\n");
+  return 0;
 }
 ```
