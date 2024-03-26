@@ -11,17 +11,18 @@ aliases: "about"
 
 Muslim, Libyan, Software Engineer.
 
-I value simplicity in everything, which is why I strive to understand things deeply to achieve simplicity without sacrificing correctness, efficiency or practicality
+a simple man who values simplicity and strives to understand things deeply
+to achieve the desired simplicity without sacrificing correctness or practicality
 
-The goal is to be a key to goodness and leave behind a legacy of goodness.
+The goal is to inshAllah be a key to goodness and leave behind a legacy of goodness.
 
-# interests
+## interests
 
-Backend Engineer interested in System Design and Distributed Systems.
+Backend Engineer interested in Distributed Systems. I like football, MMA and FOSS
 
-# tech
+## tech
 
-I like technology that gets out of your way as much as possible and helps you focus on the task you want to solve
+I like technology that gets out of your way and helps you focus on the task in hand
 
 Here are some technologies that I use regularly:
 
