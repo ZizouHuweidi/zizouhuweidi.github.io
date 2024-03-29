@@ -22,12 +22,11 @@ Backend Engineer interested in Distributed Systems. I like football, MMA and FOS
 
 ## tech
 
-I like technology that gets out of your way and helps you focus on the task in hand
-
 Here are some technologies that I use regularly:
 
 - Go {{<icon "go">}}
-- Postgres {{<icon "postgres">}}
+- Python {{<icon "python">}}
 - gRPC {{<icon "grpc">}}
-- RabbitMQ {{<icon "rabbitmq">}}
-- Docker {{<icon "docker">}}
+- Postgres {{<icon "postgres">}}
+- Kafka {{<icon "kafka">}}
+- Kubernetes {{<icon "kubernetes">}}
