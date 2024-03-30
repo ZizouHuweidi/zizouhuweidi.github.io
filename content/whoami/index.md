@@ -18,7 +18,7 @@ The goal is to inshAllah be a key to goodness and leave behind a legacy of goodn
 
 ## interests
 
-Backend Engineer interested in Distributed Systems. I like football, MMA and FOSS
+Backend Engineer interested in Distributed Systems and DevOps. I like football, MMA and FOSS
 
 ## tech
 
