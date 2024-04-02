@@ -12,17 +12,15 @@ aliases: "about"
 Muslim, Libyan, Software Engineer.
 
 a simple man who values simplicity and strives to understand things deeply
-to achieve the desired simplicity without sacrificing correctness or practicality
+to achieve the desired simplicity without sacrificing correctness
 
 The goal is to inshAllah be a key to goodness and leave behind a legacy of goodness.
 
-## interests
 
-Backend Engineer interested in Distributed Systems and DevOps. I like football, MMA and FOSS
+# tech
+Backend Engineer interested in Distributed Systems and DevOps. FOSS and Linux enthusiast
 
-## tech
-
-Here are some technologies that I use regularly:
+Some technologies I am using and or learning:
 
 - Go {{<icon "go">}}
 - Python {{<icon "python">}}

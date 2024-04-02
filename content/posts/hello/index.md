@@ -44,11 +44,3 @@ public class Main {
   }
 }
 ```
-
-# Rust
-
-```rs
-fn main() {
-  println!("hello, world!");
-}
-```
