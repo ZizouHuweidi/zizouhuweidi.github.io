@@ -11,20 +11,20 @@ aliases: "about"
 
 Muslim, Libyan, Software Engineer.
 
-a simple man who values simplicity and strives to understand things deeply
-to achieve the desired simplicity without sacrificing correctness
+A simple man who strives to understand things deeply,
+to achieve the desired simplicity without sacrificing correctness.
 
-The goal is to inshAllah be a key to goodness and leave behind a legacy of goodness.
+My goal is to inshAllah be a key to goodness and leave behind a legacy of goodness.
 
+Backend Engineer interested in Distributed Systems and DevOps.
 
-# tech
-Backend Engineer interested in Distributed Systems and DevOps. FOSS and Linux enthusiast
+FOSS and Linux enthusiast. Football and MMA fan.
 
 Some technologies I am using and or learning:
 
 - Go {{<icon "go">}}
 - Python {{<icon "python">}}
-- gRPC {{<icon "grpc">}}
 - Postgres {{<icon "postgres">}}
+- gRPC {{<icon "grpc">}}
 - Kafka {{<icon "kafka">}}
 - Kubernetes {{<icon "kubernetes">}}
