@@ -23,7 +23,6 @@ FOSS and Linux enthusiast. Football and MMA fan.
 Some technologies I am using and or learning:
 
 - Go {{<icon "go">}}
-- Python {{<icon "python">}}
 - Postgres {{<icon "postgres">}}
 - gRPC {{<icon "grpc">}}
 - Kafka {{<icon "kafka">}}
