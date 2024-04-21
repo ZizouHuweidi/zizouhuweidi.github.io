@@ -23,16 +23,26 @@ func main() {
 }
 ```
 
+# TypeScript
+
+```ts
+console.log("hello, world!");
+```
+
 # Python
 
 ```py
 print("hello, world!")
 ```
 
-# TypeScript
+# Java
 
-```ts
-console.log("hello, world!");
+```java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("hello, world!");
+  }
+}
 ```
 
 # Rust
