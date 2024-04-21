@@ -35,16 +35,6 @@ console.log("hello, world!");
 print("hello, world!")
 ```
 
-# Java
-
-```java
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("hello, world!");
-  }
-}
-```
-
 # Rust
 
 ```rs
