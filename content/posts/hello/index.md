@@ -23,14 +23,23 @@ func main() {
 }
 ```
 
+# TypeScript
+
+```js
+console.log("hello, world!");
+```
+
 # Python
 
 ```py
 print("hello, world!")
 ```
 
-# TypeScript
+# Zig
+```zig
+const std = @import("std");
 
-```ts
-console.log("hello, world!");
+pub fn main() !void {
+  std.debug.print("hello, world!\n", .{});
+}
 ```
