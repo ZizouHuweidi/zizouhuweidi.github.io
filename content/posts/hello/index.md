@@ -23,22 +23,14 @@ func main() {
 }
 ```
 
-# TypeScript
-
-```ts
-console.log("hello, world!");
-```
-
 # Python
 
 ```py
 print("hello, world!")
 ```
 
-# Rust
+# TypeScript
 
-```rs
-fn main() {
-  println!("hello, world!");
-}
+```ts
+console.log("hello, world!");
 ```
