@@ -35,11 +35,33 @@ console.log("hello, world!");
 print("hello, world!")
 ```
 
+# Java
+
+```java
+class Main {
+  public static void main(String[] args) {
+    System.out.println("hello, world!");
+  }
+}
+```
+
 # Zig
+
 ```zig
 const std = @import("std");
 
 pub fn main() !void {
   std.debug.print("hello, world!\n", .{});
+}
+```
+
+# C
+
+```c
+#include <stdio.h>
+
+int main() {
+  printf("hello, world!\n");
+  return 0;
 }
 ```
