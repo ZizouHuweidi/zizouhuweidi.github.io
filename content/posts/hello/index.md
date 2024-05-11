@@ -9,7 +9,7 @@ topics: ["programming"]
 just like I eventually got to actually making my website,
 I will one day eventually get to writing an actual blog post, InshAllah.
 
-for now enjoy these 'hello, world!' examples in languages I am familiar with:
+for now enjoy these 'hello, world!' examples in languages I use:
 
 # Go
 
@@ -23,26 +23,16 @@ func main() {
 }
 ```
 
-# TypeScript
-
-```js
-console.log("hello, world!");
-```
-
 # Python
 
 ```py
 print("hello, world!")
 ```
 
-# Java
+# TypeScript
 
-```java
-class Main {
-  public static void main(String[] args) {
-    System.out.println("hello, world!");
-  }
-}
+```js
+console.log("hello, world!");
 ```
 
 # Zig
@@ -52,16 +42,5 @@ const std = @import("std");
 
 pub fn main() !void {
   std.debug.print("hello, world!\n", .{});
-}
-```
-
-# C
-
-```c
-#include <stdio.h>
-
-int main() {
-  printf("hello, world!\n");
-  return 0;
 }
 ```
