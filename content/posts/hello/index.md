@@ -37,12 +37,6 @@ void main() {
 }
 ```
 
-# JavaScript
-
-```js
-console.log("hello, world!");
-```
-
 # Zig
 
 ```zig
