@@ -33,16 +33,12 @@ print("hello, world!")
 
 ```java
 void main() {
-	System.out.println("Hello, World!");
+	System.out.println("hello, World!");
 }
 ```
 
-# Zig
+# TypeScript
 
-```zig
-const std = @import("std");
-
-pub fn main() !void {
-  std.debug.print("hello, world!\n", .{});
-}
+```ts
+console.log("hello, world!");
 ```
