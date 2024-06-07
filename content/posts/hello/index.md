@@ -29,7 +29,15 @@ func main() {
 print("hello, world!")
 ```
 
-# TypeScript
+# Java
+
+```java
+void main() { 
+	System.out.println("Hello, World!");
+}
+```
+
+# JavaScript
 
 ```js
 console.log("hello, world!");
