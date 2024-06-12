@@ -29,16 +29,18 @@ func main() {
 print("hello, world!")
 ```
 
-# Java
-
-```java
-void main() {
-	System.out.println("hello, World!");
-}
-```
-
 # TypeScript
 
 ```ts
 console.log("hello, world!");
+```
+
+# C
+
+```c
+#include <stdio.h>
+int main() {
+  printf("hello, world!\n");
+  return 0;
+}
 ```
