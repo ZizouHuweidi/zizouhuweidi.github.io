@@ -35,12 +35,10 @@ print("hello, world!")
 console.log("hello, world!");
 ```
 
-# C
+# Rust
 
-```c
-#include <stdio.h>
-int main() {
-  printf("hello, world!\n");
-  return 0;
+```rs
+fn main() {
+  println!("hello, world!");
 }
 ```
