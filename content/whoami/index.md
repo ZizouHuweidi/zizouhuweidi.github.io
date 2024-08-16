@@ -16,14 +16,6 @@ to achieve the desired simplicity without sacrificing correctness.
 
 My goal is to inshAllah be a key to goodness and leave behind a legacy of goodness.
 
-Backend Engineer interested in Distributed Systems.
+Backend Engineer interested in Distributed Systems and Data Engineering.
 
 FOSS and Linux enthusiast. Football and MMA fan.
-
-Some technologies I am using and or learning:
-
-- Go {{<icon "go">}}
-- Postgres {{<icon "postgres">}}
-- gRPC {{<icon "grpc">}}
-- Kafka {{<icon "kafka">}}
-- Kubernetes {{<icon "kubernetes">}}
