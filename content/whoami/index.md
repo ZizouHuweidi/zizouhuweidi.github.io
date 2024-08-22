@@ -14,8 +14,6 @@ Muslim, Libyan, Software Engineer.
 A simple man who strives to understand things deeply,
 to achieve the desired simplicity without sacrificing correctness.
 
-My goal is to inshAllah be a key to goodness and leave behind a legacy of goodness.
+My goal in life is to, In shaa Allah, be a key to goodness and leave behind a legacy of goodness.
 
-Backend Engineer interested in Distributed Systems and Data Engineering.
-
-FOSS and Linux enthusiast. Football and MMA fan.
+I am a Backend Engineer interested in Distributed Systems and Data Engineering. Also a FOSS and Linux enthusiast
