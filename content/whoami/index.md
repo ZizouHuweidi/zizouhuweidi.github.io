@@ -13,6 +13,6 @@ Muslim, Libyan, Software Engineer.
 
 FOSS and Linux enthusiast. Interested in Distributed Systems and ML.
 
-Simple man who strives to simplicity without sacrificing correctness.
+Simple man who strives for simplicity without sacrificing correctness.
 
-My goal in life is to be a key to goodness and leave behind a legacy of goodness.
+Goal in life is to be a key to goodness and leave behind a legacy of goodness.
