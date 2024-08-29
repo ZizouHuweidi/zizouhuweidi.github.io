@@ -11,9 +11,8 @@ aliases: "about"
 
 Muslim, Libyan, Software Engineer.
 
-Simple man who strives to understand things deeply,
-to achieve the desired simplicity without sacrificing correctness.
+FOSS and Linux enthusiast. Interested in Distributed Systems and ML.
+
+Simple man who strives to simplicity without sacrificing correctness.
 
 My goal in life is to be a key to goodness and leave behind a legacy of goodness.
-
-Backend Engineer interested in Distributed Systems and Data Engineering. Also a FOSS and Linux enthusiast
