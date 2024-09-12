@@ -3,7 +3,7 @@ title: "bayt-alhikmah"
 date: 2022-06-01
 externalUrl: "http://github.com/zizouhuweidi/bayt-alhikmah"
 summary: "knowledge center"
-topics: ["python", "distributed systems", "ML"]
+topics: ["python", "ML"]
 # description: ""
 _build:
   render: "false"
