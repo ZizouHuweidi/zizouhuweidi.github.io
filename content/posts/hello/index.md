@@ -9,7 +9,13 @@ topics: ["programming"]
 just like I eventually got to actually making my website,
 I will one day eventually get to writing an actual blog post, InshAllah.
 
-for now enjoy these 'hello, world!' examples in languages I use
+for now enjoy these 'hello, world!' examples in my languages of choice
+
+# Python
+
+```py
+print("hello, world!")
+```
 
 # Go
 
@@ -23,8 +29,13 @@ func main() {
 }
 ```
 
-# Python
+# C
 
-```py
-print("hello, world!")
+```c
+#include <stdio.h>
+
+int main() {
+  printf("hello, world!\n");
+  return 0;
+}
 ```
