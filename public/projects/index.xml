@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on ~</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in projects on ~</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>advent-of-code</title>
+      <link>http://localhost:1313/projects/advent-of-code/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/advent-of-code/</guid>
+      <description>my attempts at advent of code puzzles</description>
+    </item>
+    <item>
+      <title>bayt-alhikmah</title>
+      <link>http://localhost:1313/projects/bayt-alhikmah/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/bayt-alhikmah/</guid>
+      <description>knowledge center</description>
+    </item>
+    <item>
+      <title>jester</title>
+      <link>http://localhost:1313/projects/jester/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/jester/</guid>
+      <description>cli that tells you shit jokes</description>
+    </item>
+    <item>
+      <title>mission-ama</title>
+      <link>http://localhost:1313/projects/mission-ama/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mission-ama/</guid>
+      <description>mission management app using HTMX</description>
+    </item>
+    <item>
+      <title>monke</title>
+      <link>http://localhost:1313/projects/monke/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/monke/</guid>
+      <description>the monke programming language</description>
+    </item>
+    <item>
+      <title>retro-station</title>
+      <link>http://localhost:1313/projects/retro-station/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/retro-station/</guid>
+      <description>a retro games e-store built with microservice architecture</description>
+    </item>
+    <item>
+      <title>slander-detection</title>
+      <link>http://localhost:1313/projects/slander-detection/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/slander-detection/</guid>
+      <description>insult detection model</description>
+    </item>
+    <item>
+      <title>swaggerless</title>
+      <link>http://localhost:1313/projects/swaggerless/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/swaggerless/</guid>
+      <description>code doc generator using BERT</description>
+    </item>
+  </channel>
+</rss>
