@@ -11,7 +11,7 @@ aliases: "about"
 
 Muslim, Libyan, Software Engineer.
 
-FOSS and Linux enthusiast. Interested in Distributed Systems and ML.
+FOSS and Linux enthusiast. Interested in System Design and ML.
 
 Simple man who strives for simplicity without sacrificing correctness.
 
