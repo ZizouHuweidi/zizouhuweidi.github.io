@@ -29,13 +29,12 @@ func main() {
 }
 ```
 
-# C
+# C++
 
-```c
-#include <stdio.h>
+```cpp
+#include <print>
 
 int main() {
-  printf("hello, world!\n");
-  return 0;
+   std::println("hello, world!");
 }
 ```
