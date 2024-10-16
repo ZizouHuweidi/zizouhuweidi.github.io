@@ -29,18 +29,12 @@ func main() {
 print("hello, world!")
 ```
 
-# JavaScript
+# Zig
 
-```js
-console.log("hello, world!");
-```
+```zig
+const std = @import("std");
 
-# C++
-
-```cpp
-#include <print>
-
-int main() {
-   std::println("hello, world!");
+pub fn main() !void {
+    std.debug.print("Hello, World!\n", .{});
 }
 ```
