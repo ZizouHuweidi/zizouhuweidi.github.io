@@ -13,7 +13,7 @@ title = "~"
 [services.disqus]
 shortname = 'https-zizouhuweidi-github-io'
 
-[author]
+[params.author]
 name = "El Zubeir Huweidi"
 image = "img/zizouhuweidi.jpg"
 headline = "hello, world!"
