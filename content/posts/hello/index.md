@@ -29,6 +29,12 @@ func main() {
 print("hello, world!")
 ```
 
+# JavaScript
+
+```js
+console.log("hello, world!");
+```
+
 # Zig
 
 ```zig
