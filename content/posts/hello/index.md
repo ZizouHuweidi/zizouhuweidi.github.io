@@ -29,12 +29,6 @@ func main() {
 print("hello, world!")
 ```
 
-# JavaScript
-
-```js
-console.log("hello, world!");
-```
-
 # Zig
 
 ```zig
@@ -43,4 +37,12 @@ const std = @import("std");
 pub fn main() !void {
     std.debug.print("hello, world!\n", .{});
 }
+```
+
+# PHP
+
+```php
+<?php
+echo "hello, world!";
+?>
 ```
