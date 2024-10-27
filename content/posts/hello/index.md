@@ -25,7 +25,7 @@ func main() {
 
 # Python
 
-```py
+```python
 print("hello, world!")
 ```
 
@@ -39,10 +39,22 @@ pub fn main() !void {
 }
 ```
 
+# JavaScript
+
+```javascript
+console.log("hello, world!");
+```
+
 # PHP
 
 ```php
 <?php
 echo "hello, world!";
 ?>
+```
+
+# C#
+
+```cs
+Console.WriteLine("hello, world!");
 ```
