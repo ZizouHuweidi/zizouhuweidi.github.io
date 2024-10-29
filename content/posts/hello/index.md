@@ -52,9 +52,3 @@ console.log("hello, world!");
 echo "hello, world!";
 ?>
 ```
-
-# C#
-
-```cs
-Console.WriteLine("hello, world!");
-```
