@@ -29,14 +29,12 @@ func main() {
 print("hello, world!")
 ```
 
-# Zig
+# PHP
 
-```zig
-const std = @import("std");
-
-pub fn main() !void {
-    std.debug.print("hello, world!\n", .{});
-}
+```php
+<?php
+echo "hello, world!";
+?>
 ```
 
 # JavaScript
@@ -45,10 +43,12 @@ pub fn main() !void {
 console.log("hello, world!");
 ```
 
-# PHP
+# Zig
 
-```php
-<?php
-echo "hello, world!";
-?>
+```zig
+const std = @import("std");
+
+pub fn main() !void {
+    std.debug.print("hello, world!\n", .{});
+}
 ```
