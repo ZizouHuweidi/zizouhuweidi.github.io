@@ -29,14 +29,6 @@ func main() {
 print("hello, world!")
 ```
 
-# PHP
-
-```php
-<?php
-echo "hello, world!";
-?>
-```
-
 # JavaScript
 
 ```javascript
