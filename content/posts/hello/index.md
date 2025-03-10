@@ -35,12 +35,10 @@ print("hello, world!")
 console.log("hello, world!");
 ```
 
-# Zig
+# PHP
 
-```zig
-const std = @import("std");
+```php
+<?php
 
-pub fn main() !void {
-    std.debug.print("hello, world!\n", .{});
-}
+echo "hello, world!\n";
 ```
