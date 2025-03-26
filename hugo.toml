@@ -1,0 +1,56 @@
+baseURL = "https://zizouhuweidi.github.io/"
+languageCode = "en"
+title = "El Zubeir Huweidi"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+copyright = "© 2025 El Zubeir Huweidi"
+enableRobotsTXT = true
+
+[goldmark]
+[goldmark.renderer]
+unsafe = true
+
+[highlight]
+style = "gruvbox"
+
+[params]
+author = "El Zubeir Huweidi"
+description = "Backend Engineer"
+github = "zizouhuweidi"
+twitter = "zizouhuweidi"
+linkedin = "el-zubeir-huweidi-900899234"
+email = "zubeir.huweidi@gmail.com"
+url = "zizouhuweidi.github.io/"
+keywords = "blog, google analytics"
+rss = true
+lastmod = true
+userStatusEmoji = "😀"
+favicon = "favicon.ico"
+avatar = "img/zizouhuweidi.png"
+headerIcon = "img/zizouhuweidi.png"
+location = "Benghazi, Libya"
+
+# enableGitalk = true
+# custom_css = ["css/custom.css"]
+# custom_js = ["js/custom.js"]
+
+# [params.gitalk]
+# clientID = "Your client ID"
+# clientSecret = "Your client secret"
+# repo = "repo"
+# owner = "MeiK2333"
+# admin = "MeiK2333"
+# id = "location.pathname"
+# labels = "gitalk"
+# perPage = 15
+# pagerDirection = "last"
+# createIssueManually = true
+# distractionFreeMode = false
+
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime", ":default"]
+
+# [services]
+# [services.googleAnalytics]
+# ID = "UA-123456-789"
