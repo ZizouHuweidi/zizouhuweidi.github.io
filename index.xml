@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hello, world! on ~</title><link>https://zizouhuweidi.github.io/</link><description>Recent content in hello, world! on ~</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zizouhuweidi.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>hello, world!</title><link>https://zizouhuweidi.github.io/hello-world/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>https://zizouhuweidi.github.io/hello-world/</guid><description>hello, world!</description></item><item><title/><link>https://zizouhuweidi.github.io/whoami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zizouhuweidi.github.io/whoami/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>El Zubeir Huweidi</title><link>https://zizouhuweidi.github.io/</link><description>Recent content on El Zubeir Huweidi</description><generator>Hugo</generator><language>en</language><copyright>© 2025 El Zubeir Huweidi</copyright><lastBuildDate>Wed, 26 Mar 2025 14:16:48 +0000</lastBuildDate><atom:link href="https://zizouhuweidi.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>go website</title><link>https://zizouhuweidi.github.io/hello-world/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://zizouhuweidi.github.io/hello-world/</guid><description>go programming language</description></item><item><title>hello, world!</title><link>https://zizouhuweidi.github.io/hello-world/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>https://zizouhuweidi.github.io/hello-world/</guid><description>hello, world!</description></item><item><title/><link>https://zizouhuweidi.github.io/readme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zizouhuweidi.github.io/readme/</guid><description>&lt;p>Welcome to my humble abode on the interwebs, a log of my thoughts and a documentation of my journey.&lt;/p>
+&lt;h2 id="whoami">whoami&lt;/h2>
+&lt;ul>
+&lt;li>Backend Engineer intrested in System Design, FOSS and AI&lt;/li>
+&lt;li>Simple man who strives for simplicity without sacrificing correctness&lt;/li>
+&lt;/ul>
+&lt;h2 id="repositories">Repositories&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="http://github.com/zizouhuweidi/advent-of-code">advent-of-code&lt;/a>&lt;/strong>: My attempts at solving Advent of Code puzzles.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="http://github.com/zizouhuweidi/bayt-alhikmah">bayt-alhikmah&lt;/a>&lt;/strong> A knowledge center.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="http://github.com/zizouhuweidi/jester">jester&lt;/a>&lt;/strong> A CLI tool that tells you shit jokes.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="http://github.com/zizouhuweidi/monke">monke&lt;/a>&lt;/strong> The monke programming language.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="http://github.com/zizouhuweidi/slander-detection">slander-detection&lt;/a>&lt;/strong> An insult detection model.&lt;/p></description></item></channel></rss>
