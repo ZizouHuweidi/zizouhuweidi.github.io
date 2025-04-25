@@ -1,0 +1,45 @@
+---
+import PageLayout from "@/layouts/Base.astro";
+
+const meta = {
+  title: "About",
+  description: "About El Zubeir Huweidi",
+};
+---
+
+<PageLayout meta={meta}>
+  <div class="prose prose-cactus max-w-none mb-8">
+    <h2 class="mb-4">whoami</h2>
+    <ul class="list-disc list-inside mb-8">
+      <li>Muslim, Libyan, and a Software Engineer</li>
+      <li>Simple man who strives to simplify the complicated without sacrificing correctness</li>
+      <li>Goal in life is to be a key to goodness and leave behind a legacy of goodness</li>
+      <li>Backend Engineer interested in System Design, FOSS and AI</li>
+    </ul>
+
+    <h2 class="mb-4">Repositories</h2>
+    <ul class="list-disc list-inside mb-8">
+      <li>
+        <strong><a href="http://github.com/zizouhuweidi/advent-of-code">advent-of-code</a></strong>: My attempts at solving Advent of Code puzzles.
+      </li>
+      <li>
+        <strong><a href="http://github.com/zizouhuweidi/bayt-alhikmah">bayt-alhikmah</a></strong> A knowledge center.
+      </li>
+      <li>
+        <strong><a href="http://github.com/zizouhuweidi/jester">jester</a></strong> A CLI tool that tells you shit jokes.
+      </li>
+      <li>
+        <strong><a href="http://github.com/zizouhuweidi/monke">monke</a></strong> The monke programming language.
+      </li>
+      <li>
+        <strong><a href="http://github.com/zizouhuweidi/slander-detection">slander-detection</a></strong> An insult detection model.
+      </li>
+    </ul>
+
+    <h2 class="mb-4">Skills and Technologies</h2>
+    <ul class="list-disc list-inside">
+      <li><strong>Programming Languages:</strong> Go, Python, TypeScript</li>
+      <li><strong>Tools:</strong> Postgres, MySQL, Git, Docker</li>
+    </ul>
+  </div>
+</PageLayout>
