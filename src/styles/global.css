@@ -1,5 +1,5 @@
 /* would like to ignore ./src/pages/og-image/[slug].png.ts */
-@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&family=IBM+Plex+Mono:wght@400;700&display=swap');
 @import "tailwindcss";
 /* config for tailwindcss-typography plugin */
 @config "../../tailwind.config.ts";
@@ -9,14 +9,18 @@
 
 /* you could refactor below to use light-dark(), depending on your target audience */
 @theme {
-	--font-sans: 'Fira Mono', 'IBM Plex Mono', 'Menlo', 'Consolas', 'monospace';
-	--font-mono: 'Fira Mono', 'IBM Plex Mono', 'Menlo', 'Consolas', 'monospace';
-	--color-global-bg: oklch(98.48% 0 0);
-	--color-global-text: oklch(26.99% 0.0096 235.05);
-	--color-link: oklch(55.44% 0.0431 185.69);
-	--color-accent: oklch(55.27% 0.195 19.06);
-	--color-accent-2: oklch(18.15% 0 0);
-	--color-quote: oklch(55.27% 0.195 19.06);
+	--font-sans: 'IBM Plex Mono', 'Fira Mono', 'VT323', 'Menlo', 'Consolas', 'monospace';
+	--font-mono: 'IBM Plex Mono', 'Fira Mono', 'VT323', 'Menlo', 'Consolas', 'monospace';
+	--color-global-bg: #282828;        /* Gruvbox dark medium background */
+	--color-global-text: #ebdbb2;     /* Gruvbox light text */
+	--color-link: #83a598;            /* Gruvbox blue */
+	--color-accent: #fe8019;          /* Gruvbox orange */
+	--color-accent-2: #b8bb26;        /* Gruvbox green */
+	--color-quote: #fabd2f;           /* Gruvbox yellow */
+	--color-bg-soft: #32302f;         /* Gruvbox soft bg */
+	--color-bg-highlight: #3c3836;    /* Gruvbox highlight bg */
+	--color-border: #504945;          /* Gruvbox border */
+	--color-muted: #a89984;           /* Gruvbox muted text */
 }
 
 @layer base {
@@ -33,23 +37,13 @@ code, pre, kbd, samp {
 }
 
 	html {
-		color-scheme: light dark;
+		color-scheme: dark;
 		accent-color: var(--color-accent);
-
-		&[data-theme="light"] {
-			color-scheme: light;
-		}
-
-		&[data-theme="dark"] {
-			color-scheme: dark;
-			--color-global-bg: oklch(23.64% 0.0045 248);
-			--color-global-text: oklch(83.54% 0 264);
-			--color-link: oklch(70.44% 0.1133 349);
-			--color-accent: oklch(70.91% 0.1415 163.7);
-			--color-accent-2: oklch(94.66% 0 0);
-			--color-quote: oklch(94.8% 0.106 136.49);
-		}
+		background: var(--color-global-bg);
+		color: var(--color-global-text);
+		border-color: var(--color-border);
 	}
+
 
 	:target {
 		scroll-margin-block: 5ex;
