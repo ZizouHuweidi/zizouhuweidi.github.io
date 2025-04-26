@@ -1,4 +1,5 @@
 /* would like to ignore ./src/pages/og-image/[slug].png.ts */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;700&display=swap');
 @import "tailwindcss";
 /* config for tailwindcss-typography plugin */
 @config "../../tailwind.config.ts";
@@ -8,6 +9,8 @@
 
 /* you could refactor below to use light-dark(), depending on your target audience */
 @theme {
+	--font-sans: 'Fira Mono', 'IBM Plex Mono', 'Menlo', 'Consolas', 'monospace';
+	--font-mono: 'Fira Mono', 'IBM Plex Mono', 'Menlo', 'Consolas', 'monospace';
 	--color-global-bg: oklch(98.48% 0 0);
 	--color-global-text: oklch(26.99% 0.0096 235.05);
 	--color-link: oklch(55.44% 0.0431 185.69);
@@ -17,6 +20,18 @@
 }
 
 @layer base {
+	html, body, h1, h2, h3, h4, h5, h6 {
+	font-family: var(--font-sans);
+	font-size: 1.1em;
+	letter-spacing: 0.01em;
+}
+
+code, pre, kbd, samp {
+	font-family: var(--font-mono);
+	font-size: 1em;
+	letter-spacing: 0.01em;
+}
+
 	html {
 		color-scheme: light dark;
 		accent-color: var(--color-accent);

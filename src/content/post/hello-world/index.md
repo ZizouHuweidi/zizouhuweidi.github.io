@@ -2,7 +2,7 @@
 title: "hello, world!"
 description: "hello, world! examples in languages I use"
 publishDate: "01 April 2023"
-tags: ["writing"]
+tags: ["go", "python", "programming"]
 draft: false
 ---
 
