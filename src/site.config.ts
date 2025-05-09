@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
 		- The link value found in src/components/layout/Header.astro L:35
 		- In the footer found in src/components/layout/Footer.astro L:12
 	*/
-	title: "zizou/",
+	title: "zizou",
 	// ! Please remember to replace the following site property with your own domain, used in astro.config.ts
 	url: "https://zizouhuweidi.github.io/",
 };
@@ -45,7 +45,7 @@ export const menuLinks: { path: string; title: string }[] = [
 		title: "notes",
 	},
 	{
-		path: "/about/",
+		path: "/whoami/",
 		title: "whoami",
 	},
 ];
