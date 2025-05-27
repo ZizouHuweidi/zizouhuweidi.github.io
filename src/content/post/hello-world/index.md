@@ -19,9 +19,8 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("hello, world!")
+  fmt.Println("hello, world!")
 }
-
 ```
 
 ## Python
@@ -36,13 +35,12 @@ print("hello, world!")
 console.log("hello, world!");
 ```
 
-## C
+## C++
 
-```c
-#include <stdio.h>
+```cpp
+#include "iostream"
 
 int main() {
-    printf("hello, world!\n");
-    return 0;
+  std::cout << "hello, world!\n";
 }
 ```
