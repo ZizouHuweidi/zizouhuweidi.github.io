@@ -2,7 +2,7 @@
 title: "hello, world!"
 description: "hello, world! examples in languages I use"
 publishDate: "01 April 2023"
-tags: ["go", "python", "programming"]
+tags: ["programming"]
 draft: false
 ---
 
@@ -27,6 +27,12 @@ func main() {
 
 ```python
 print("hello, world!")
+```
+
+## C#
+
+```cs
+Console.WriteLine("Hello, World!");
 ```
 
 ## TypeScript
