@@ -40,13 +40,3 @@ Console.WriteLine("Hello, World!");
 ```typescript
 console.log("hello, world!");
 ```
-
-## C++
-
-```cpp
-#include "iostream"
-
-int main() {
-  std::cout << "hello, world!\n";
-}
-```
