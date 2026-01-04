@@ -29,14 +29,14 @@ func main() {
 print("hello, world!")
 ```
 
-## C#
-
-```cs
-Console.WriteLine("Hello, World!");
-```
-
 ## TypeScript
 
 ```typescript
 console.log("hello, world!");
+```
+
+## C #
+
+```cs
+Console.WriteLine("Hello, World!");
 ```
