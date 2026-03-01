@@ -35,8 +35,10 @@ print("hello, world!")
 console.log("hello, world!");
 ```
 
-## C #
+## rust
 
-```cs
-Console.WriteLine("Hello, World!");
+```rust
+fn main() {
+    println!("Hello, world!");
+}
 ```
