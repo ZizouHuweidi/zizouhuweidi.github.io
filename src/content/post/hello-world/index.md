@@ -35,7 +35,7 @@ print("hello, world!")
 console.log("hello, world!");
 ```
 
-## rust
+## Rust
 
 ```rust
 fn main() {
