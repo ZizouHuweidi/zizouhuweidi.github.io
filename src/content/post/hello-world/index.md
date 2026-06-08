@@ -35,10 +35,18 @@ print("hello, world!")
 console.log("hello, world!");
 ```
 
-## Rust
+## C#
 
-```rust
-fn main() {
-    println!("Hello, world!");
+```cs
+Console.WriteLine("Hello, World!");
+```
+
+## C++
+
+```cpp
+import std;
+
+int main() {
+    std::println("Hello World!");
 }
 ```
