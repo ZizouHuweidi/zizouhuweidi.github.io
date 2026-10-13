@@ -35,10 +35,12 @@ print("hello, world!")
 console.log("hello, world!");
 ```
 
-## C#
+## Java
 
-```cs
-Console.WriteLine("Hello, World!");
+```java
+void main() {
+    IO.println("Hello, World!");
+}
 ```
 
 ## C++
